@@ -1,5 +1,7 @@
 # Trabalho 1 — Aquisição de Dados (Cinema)
 
+Repositório: https://github.com/Lucased22/trabalho01-aquisicao-cinema
+
 Projeto da disciplina de Ciência de Dados (UFAM): coleta, integração e documentação de uma base sobre orçamento/faturamento de filmes e recepção de crítica/público.
 
 ## Fontes

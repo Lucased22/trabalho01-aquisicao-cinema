@@ -1,6 +1,6 @@
 tmdb_id,imdb_id,title,release_date,budget,revenue,genres,runtime,original_language,tmdb_vote_average,tmdb_vote_count
 19995,tt0499549,Avatar,2009-12-16,237000000,2923706026,Science Fiction|Action|Adventure,162,en,7.609,34639
-299534,tt4154796,Avengers: Endgame,2019-04-24,356000000,2799439100,Adventure|Science Fiction|Action,181,en,8.242,28618
+299534,tt4154796,Avengers: Endgame,2019-04-24,356000000,2799439100,Adventure|Science Fiction|Action,181,en,8.2,28621
 969681,tt22084616,Spider-Man: Brand New Day,2026-07-29,225000000,2412640193,Science Fiction|Action|Adventure,145,en,7.844,2614
 76600,tt1630029,Avatar: The Way of Water,2022-12-14,460000000,2334484620,Action|Adventure|Science Fiction,192,en,7.585,14606
 980477,tt34956443,Ne Zha 2,2025-01-29,80000000,2270700370,Animation|Action|Fantasy|Adventure,144,zh,8.156,815
@@ -26,7 +26,7 @@ tmdb_id,imdb_id,title,release_date,budget,revenue,genres,runtime,original_langua
 533535,tt6263850,Deadpool & Wolverine,2024-07-24,200000000,1338073645,Action|Comedy|Science Fiction,128,en,7.586,9417
 181808,tt2527336,Star Wars: The Last Jedi,2017-12-13,300000000,1334407706,Adventure|Action|Science Fiction,152,en,6.737,16659
 351286,tt4881806,Jurassic World: Fallen Kingdom,2018-06-06,170000000,1310469037,Adventure|Science Fiction|Thriller|Action,129,en,6.5,12993
-109445,tt2294629,Frozen,2013-11-20,150000000,1274219009,Animation|Family|Adventure|Fantasy,102,en,7.249,17870
+109445,tt2294629,Frozen,2013-11-20,150000000,1274219009,Animation|Family|Adventure|Fantasy,102,en,7.249,17871
 321612,tt2771200,Beauty and the Beast,2017-03-16,160000000,1266115964,Family|Fantasy|Romance,129,en,6.967,16155
 260513,tt3606756,Incredibles 2,2018-06-14,200000000,1243225667,Action|Adventure|Animation|Family,118,en,7.453,13928
 337339,tt4630562,The Fate of the Furious,2017-04-12,250000000,1236000000,Action|Crime|Thriller,136,en,6.851,10973
@@ -87,7 +87,7 @@ tmdb_id,imdb_id,title,release_date,budget,revenue,genres,runtime,original_langua
 674,tt0330373,Harry Potter and the Goblet of Fire,2005-11-16,150000000,895921036,Adventure|Fantasy,157,en,7.802,22607
 559,tt0413300,Spider-Man 3,2007-05-01,258000000,894983373,Action|Adventure|Science Fiction,139,en,6.481,15748
 8355,tt1080016,Ice Age: Dawn of the Dinosaurs,2009-06-26,90000000,886686817,Animation|Comedy|Family|Adventure,94,en,6.777,9056
-315635,tt2250912,Spider-Man: Homecoming,2017-07-05,175000000,880978185,Action|Adventure|Science Fiction,133,en,7.333,23873
+315635,tt2250912,Spider-Man: Homecoming,2017-07-05,175000000,880978185,Action|Adventure|Science Fiction,133,en,7.333,23877
 206647,tt2379713,Spectre,2015-10-26,245000000,880707597,Action|Adventure|Thriller,148,en,6.571,11470
 57800,tt1667889,Ice Age: Continental Drift,2012-06-27,95000000,877244782,Animation|Comedy|Adventure|Family,88,en,6.394,8261
 672,tt0295297,Harry Potter and the Chamber of Secrets,2002-11-13,100000000,876688482,Adventure|Fantasy,161,en,7.707,24041
@@ -98,7 +98,7 @@ tmdb_id,imdb_id,title,release_date,budget,revenue,genres,runtime,original_langua
 1234821,tt31036941,Jurassic World Rebirth,2025-06-23,180000000,869146189,Science Fiction|Adventure|Action,134,en,6.257,3749
 101299,tt1951264,The Hunger Games: Catching Fire,2013-11-15,130000000,865011746,Adventure|Action|Science Fiction,146,en,7.424,18757
 283995,tt3896198,Guardians of the Galaxy Vol. 2,2017-04-25,200000000,863756051,Science Fiction|Adventure|Action,137,en,7.61,23418
-505642,tt9114286,Black Panther: Wakanda Forever,2022-11-09,250000000,859102154,Action|Adventure|Science Fiction,162,en,6.993,7757
+505642,tt9114286,Black Panther: Wakanda Forever,2022-11-09,250000000,859102154,Action|Adventure|Science Fiction,162,en,6.993,7759
 150540,tt2096673,Inside Out,2015-06-17,175000000,857611174,Animation|Family|Adventure|Drama|Comedy,95,en,7.906,23870
 335983,tt1270797,Venom,2018-09-28,116000000,856085151,Science Fiction|Action,112,en,6.824,17570
 284053,tt3501632,Thor: Ragnarok,2017-10-02,180000000,855301806,Action|Science Fiction|Comedy|Adventure,131,en,7.58,22461
@@ -127,10 +127,10 @@ tmdb_id,imdb_id,title,release_date,budget,revenue,genres,runtime,original_langua
 293660,tt1431045,Deadpool,2016-02-09,58000000,782837347,Action|Adventure|Comedy,108,en,7.626,33270
 11,tt0076759,Star Wars,1977-05-25,11000000,775398007,Adventure|Action|Science Fiction,121,en,8.208,22842
 370172,tt2382320,No Time to Die,2021-09-29,250000000,774153024,Action|Thriller|Adventure,163,en,7.338,7365
-118340,tt2015381,Guardians of the Galaxy,2014-07-30,170000000,772776600,Action|Science Fiction|Adventure,121,en,7.908,30278
+118340,tt2015381,Guardians of the Galaxy,2014-07-30,170000000,772776600,Action|Science Fiction|Adventure,121,en,7.907,30280
 414906,tt1877830,The Batman,2022-03-01,185000000,772775278,Crime|Mystery|Thriller,177,en,7.7,12484
 402431,tt1262426,Wicked,2024-10-16,150000000,763963597,Drama|Romance|Fantasy,162,en,6.904,3232
-8587,tt0110357,The Lion King,1994-06-15,45000000,763455561,Animation|Family|Drama,89,en,8.251,20123
+8587,tt0110357,The Lion King,1994-06-15,45000000,763455561,Animation|Family|Drama,89,en,8.251,20124
 616037,tt10648342,Thor: Love and Thunder,2022-07-06,250000000,760928081,Fantasy|Action|Comedy,119,en,6.36,8929
 384018,tt6806448,Fast & Furious Presents: Hobbs & Shaw,2019-07-31,200000000,760098996,Action|Adventure|Comedy,137,en,6.822,7916
 591,tt0382625,The Da Vinci Code,2006-05-17,125000000,760006945,Thriller|Mystery,149,en,6.735,10301
@@ -258,7 +258,7 @@ tmdb_id,imdb_id,title,release_date,budget,revenue,genres,runtime,original_langua
 400155,tt5220122,Hotel Transylvania 3: Summer Vacation,2018-06-28,80000000,528600000,Animation|Comedy|Family|Fantasy,97,en,6.841,4794
 295693,tt3874544,The Boss Baby,2017-03-23,125000000,527965936,Animation|Comedy|Family,97,en,6.45,7574
 35,tt0462538,The Simpsons Movie,2007-07-25,75000000,527068851,Animation|Comedy|Family,87,en,7.023,8714
-124905,tt0831387,Godzilla,2014-05-14,160000000,524978362,Action|Drama|Science Fiction,123,en,6.368,10001
+124905,tt0831387,Godzilla,2014-05-14,160000000,524978362,Action|Drama|Science Fiction,123,en,6.367,10003
 10528,tt0988045,Sherlock Holmes,2009-12-23,90000000,524028679,Action|Adventure|Mystery,129,en,7.223,15025
 635302,tt11032374,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,2020-10-16,15700000,523542183,Animation|Action|Fantasy,117,ja,8.227,4672
 617126,tt10676052,The Fantastic 4: First Steps,2025-07-23,200000000,521858728,Science Fiction|Adventure|Action,115,en,6.948,3846
@@ -266,7 +266,7 @@ tmdb_id,imdb_id,title,release_date,budget,revenue,genres,runtime,original_langua
 140300,tt2267968,Kung Fu Panda 3,2016-01-23,145000000,521170825,Animation|Action|Adventure|Comedy|Family,95,en,6.94,6764
 102899,tt0478970,Ant-Man,2015-07-14,130000000,519311965,Science Fiction|Adventure|Action,117,en,7.067,21223
 280,tt0103064,Terminator 2: Judgment Day,1991-07-03,102000000,517814175,Action|Thriller|Science Fiction,137,en,8.167,14821
-693,tt0290002,Meet the Fockers,2004-12-22,80000000,516642939,Comedy|Romance,115,en,6.255,5288
+693,tt0290002,Meet the Fockers,2004-12-22,80000000,516642939,Comedy|Romance,115,en,6.254,5289
 1339713,tt37287335,Obsession,2026-05-13,750000,512738088,Horror|Thriller,109,en,8.192,5446
 313369,tt3783958,La La Land,2016-12-01,30000000,509183536,Comedy|Drama|Romance,129,en,7.9,18457
 580489,tt7097896,Venom: Let There Be Carnage,2021-09-30,110000000,506863592,Science Fiction|Action|Adventure,97,en,6.731,11407
@@ -282,7 +282,7 @@ tmdb_id,imdb_id,title,release_date,budget,revenue,genres,runtime,original_langua
 652,tt0332452,Troy,2004-05-13,175000000,497409852,Action|Adventure,163,en,7.19,11492
 863,tt0120363,Toy Story 2,1999-10-30,90000000,497375404,Animation|Comedy|Family,92,en,7.62,15340
 976573,tt15789038,Elemental,2023-06-14,200000000,496444308,Animation|Comedy|Family|Romance,102,en,7.594,5539
-10191,tt0892769,How to Train Your Dragon,2010-03-18,165000000,495141736,Fantasy|Adventure|Animation|Family,98,en,7.867,14707
+10191,tt0892769,How to Train Your Dragon,2010-03-18,165000000,495141736,Fantasy|Adventure|Animation|Family,98,en,7.867,14709
 664,tt0117998,Twister,1996-05-10,92000000,494471524,Action|Adventure|Drama,113,en,6.577,3990
 18823,tt0800320,Clash of the Titans,2010-03-26,125000000,493214993,Adventure|Fantasy|Action,106,en,5.923,6836
 939243,tt18259086,Sonic the Hedgehog 3,2024-12-19,122000000,492162604,Action|Science Fiction|Comedy|Family,110,en,7.599,3454
@@ -327,7 +327,7 @@ tmdb_id,imdb_id,title,release_date,budget,revenue,genres,runtime,original_langua
 316029,tt1485796,The Greatest Showman,2017-12-20,84000000,459066134,Drama,105,en,7.853,10227
 954,tt0117060,Mission: Impossible,1996-05-22,80000000,457696391,Adventure|Action|Thriller,111,en,7.029,10248
 616,tt0325710,The Last Samurai,2003-12-05,140000000,456800000,Drama|Action|War,154,en,7.612,7760
-1271,tt0416449,300,2007-03-07,65000000,456082343,Action|Adventure|War,117,en,7.209,15075
+1271,tt0416449,300,2007-03-07,65000000,456082343,Action|Adventure|War,117,en,7.209,15076
 917496,tt2049403,Beetlejuice Beetlejuice,2024-09-04,99000000,452000435,Comedy|Fantasy,105,en,6.92,3304
 161,tt0240772,Ocean's Eleven,2001-12-07,85000000,450717150,Thriller|Crime,116,en,7.466,12874
 612845,tt10147382,"My People, My Country",2019-09-30,0,450064993,Drama|History,154,zh,6.58,81
@@ -362,7 +362,7 @@ tmdb_id,imdb_id,title,release_date,budget,revenue,genres,runtime,original_langua
 68718,tt1853728,Django Unchained,2012-12-25,100000000,425368238,Drama|Western,165,en,8.193,28574
 605,tt0242653,The Matrix Revolutions,2003-11-05,150000000,424988211,Adventure|Action|Thriller|Science Fiction,129,en,6.758,11108
 10020,tt0101414,Beauty and the Beast,1991-10-22,25000000,424967620,Romance|Family|Animation|Fantasy,84,en,7.726,10881
-581,tt0099348,Dances with Wolves,1990-11-09,22000000,424208848,Adventure|Drama|Western,181,en,7.841,4819
+581,tt0099348,Dances with Wolves,1990-11-09,22000000,424208848,Adventure|Drama|Western,181,en,7.841,4820
 1500536,tt36598036,Dead to Rights,2025-07-19,20000000,422785908,Drama|War|History,137,zh,7.86,93
 1299537,tt32613601,Successor,2024-07-13,0,422307398,Comedy,133,zh,7.0,92
 2454,tt0499448,The Chronicles of Narnia: Prince Caspian,2008-05-15,225000000,419665568,Adventure|Family|Fantasy,150,en,6.637,6914
@@ -399,3 +399,603 @@ tmdb_id,imdb_id,title,release_date,budget,revenue,genres,runtime,original_langua
 524434,tt9032400,Eternals,2021-11-03,200000000,402064899,Science Fiction|Action|Adventure,156,en,6.754,9397
 1723126,,Her Story,,5,400000000,Thriller|Science Fiction,9,en,10.0,1
 1618688,,Kervin Civil War - Part 1,,200000000,400000000,,55,en,0.0,0
+1368166,tt27543632,The Housemaid,2025-12-18,35000000,399644671,Mystery|Thriller,131,en,7.259,3034
+615656,tt9224104,Meg 2: The Trench,2023-08-02,129000000,398500317,Action|Science Fiction|Horror,116,en,6.363,4106
+956,tt0317919,Mission: Impossible III,2006-04-25,150000000,398479497,Adventure|Action|Thriller,126,en,6.767,7835
+653346,tt11389872,Kingdom of the Planet of the Apes,2024-05-08,160000000,397378150,Science Fiction|Adventure|Action,145,en,7.053,4442
+58595,tt1735898,Snow White and the Huntsman,2012-05-30,170000000,396600000,Adventure|Fantasy|Drama,127,en,5.983,8358
+621,tt0077631,Grease,1978-06-16,6000000,396271103,Romance|Comedy,110,en,7.367,7815
+458423,tt6911608,Mamma Mia! Here We Go Again,2018-07-18,75000000,395607854,Comedy|Romance,114,en,7.07,3635
+324857,tt4633694,Spider-Man: Into the Spider-Verse,2018-12-06,90000000,394884133,Animation|Action|Adventure|Science Fiction,117,en,8.399,17839
+1083381,tt26657236,Backrooms,2026-05-27,10000000,394122453,Horror|Mystery|Science Fiction,111,en,7.052,3240
+466272,tt7131622,Once Upon a Time... in Hollywood,2019-07-24,95000000,393869691,Comedy|Drama|Thriller,162,en,7.42,15219
+8966,tt1099212,Twilight,2008-11-20,37000000,393616788,Fantasy|Drama|Romance,122,en,6.274,14663
+436270,tt6443346,Black Adam,2022-10-19,200000000,393452111,Action|Adventure|Science Fiction,125,en,6.769,7242
+923192,tt16254308,Too Cool to Kill,2022-02-01,0,393014816,Action|Comedy,109,zh,6.4,53
+348350,tt3778644,Solo: A Star Wars Story,2018-05-15,250000000,392952373,Science Fiction|Adventure|Action,135,en,6.552,9490
+1452,tt0348150,Superman Returns,2006-06-28,223000000,391081192,Science Fiction|Action|Adventure,154,en,5.824,4696
+8367,tt0102798,Robin Hood: Prince of Thieves,1991-06-14,48000000,390493908,Action|Adventure|Drama,143,en,6.853,3689
+85,tt0082971,Raiders of the Lost Ark,1981-06-12,18000000,389925971,Adventure|Action,115,en,7.928,13972
+1327819,tt26443616,Hoppers,2026-03-04,150000000,389685783,Adventure|Animation|Comedy|Family|Science Fiction,104,en,8.151,2321
+47933,tt1628841,Independence Day: Resurgence,2016-06-22,165000000,389681935,Action|Adventure|Science Fiction,120,en,5.366,6603
+373571,tt3741700,Godzilla: King of the Monsters,2019-05-29,170000000,387300138,Science Fiction|Action,132,en,6.685,6893
+334298,tt3781476,Monster Hunt,2015-07-16,0,387053506,Comedy|Fantasy|Adventure,118,zh,6.5,380
+13475,tt0796366,Star Trek,2009-05-06,150000000,386839614,Science Fiction|Action|Adventure,127,en,7.437,10713
+9836,tt0366548,Happy Feet,2006-11-16,100000000,384335608,Animation|Comedy|Family,108,en,6.231,5583
+335977,tt1462764,Indiana Jones and the Dial of Destiny,2023-06-25,294700000,383963057,Adventure|Action,155,en,6.496,4344
+260514,tt3606752,Cars 3,2017-06-15,175000000,383925276,Animation|Drama|Family|Adventure,102,en,6.866,6567
+1571,tt0337978,Live Free or Die Hard,2007-06-20,110000000,383531464,Action|Thriller,128,en,6.6,6505
+425,tt0268380,Ice Age,2002-03-14,59000000,383257136,Animation|Comedy|Family|Adventure,81,en,7.384,14609
+986056,tt20969586,Thunderbolts*,2025-04-30,180000000,382436917,Action|Science Fiction|Adventure,127,en,7.298,4030
+341174,tt4465564,Fifty Shades Darker,2017-02-08,55000000,381545846,Drama|Romance,118,en,6.47,8005
+15512,tt0892782,Monsters vs Aliens,2009-03-19,175000000,381509870,Animation|Family|Adventure|Science Fiction,94,en,6.265,5119
+105,tt0088763,Back to the Future,1985-07-03,19000000,381109762,Adventure|Comedy|Science Fiction,116,en,8.329,22365
+497698,tt3480822,Black Widow,2021-07-07,200000000,379751131,Action|Adventure|Science Fiction,134,en,7.15,11597
+929,tt0120685,Godzilla,1998-05-20,130000000,379014294,Science Fiction|Action|Thriller,138,en,5.659,4348
+36955,tt0111503,True Lies,1994-07-15,115000000,378900000,Action|Thriller,141,en,7.104,4724
+76341,tt1392190,Mad Max: Fury Road,2015-05-13,150000000,378858340,Action|Adventure|Science Fiction,121,en,7.637,24576
+12405,tt1010048,Slumdog Millionaire,2008-11-12,15000000,378400000,Drama|Romance,121,en,7.727,11571
+9325,tt0061852,The Jungle Book,1967-10-18,4000000,378000000,Family|Animation|Adventure,78,en,7.288,6773
+495278,tt2963262,Limonov: The Ballad,2024-09-05,10500000,377523000,History|Drama,133,fr,6.4,83
+82675,tt1397280,Taken 2,2012-09-27,45000000,376100000,Action|Crime|Thriller,91,en,6.371,7260
+538331,tt8529186,Hello Mr. Billionaire,2018-07-27,0,376000000,Comedy,118,zh,6.95,150
+272,tt0372784,Batman Begins,2005-06-10,150000000,374218673,Drama|Crime|Action,140,en,7.729,23149
+3981,tt0207201,What Women Want,2000-12-15,70000000,374100000,Comedy|Romance,127,en,6.451,4529
+17578,tt0983193,The Adventures of Tintin,2011-10-24,130000000,373993951,Adventure|Animation|Mystery,107,en,6.928,5958
+270946,tt1911658,Penguins of Madagascar,2014-11-22,132000000,373515621,Family|Animation|Adventure|Comedy,92,en,6.544,4572
+2080,tt0458525,X-Men Origins: Wolverine,2009-04-28,150000000,373062864,Adventure|Action|Science Fiction,107,en,6.297,11522
+718821,tt12584954,Twisters,2024-07-10,155000000,372262265,Action|Thriller,123,en,6.8,3154
+2268,tt0385752,The Golden Compass,2007-12-04,180000000,372234864,Adventure|Fantasy,113,en,6.085,4929
+337167,tt4477536,Fifty Shades Freed,2018-01-17,55000000,371985018,Drama|Romance,105,en,6.7,8429
+72559,tt1583421,G.I. Joe: Retaliation,2013-03-27,130000000,371900000,Action|Science Fiction|Adventure|Thriller,110,en,5.664,5873
+8488,tt0386588,Hitch,2005-02-11,70000000,371600000,Comedy|Drama|Romance,118,en,6.582,6365
+1233413,tt31193180,Sinners,2025-04-16,100000000,371368759,Horror|Action|Thriller,138,en,7.512,5155
+534,tt0438488,Terminator Salvation,2009-05-20,200000000,371353001,Action|Science Fiction|Thriller,115,en,6.101,7232
+210577,tt2267998,Gone Girl,2014-10-01,61000000,370890259,Mystery|Thriller|Drama,149,en,7.889,20380
+1771,tt0458339,Captain America: The First Avenger,2011-07-22,140000000,370569774,Action|Adventure|Science Fiction,124,en,7.011,23215
+137113,tt1631867,Edge of Tomorrow,2014-05-27,178000000,370541256,Action|Science Fiction,114,en,7.643,15484
+544,tt0129387,There's Something About Mary,1998-07-15,23000000,369900000,Romance|Comedy,120,en,6.636,5501
+856289,tt6979756,Creation of the Gods I: Kingdom of Storms,2023-07-15,85000000,369081777,Action|Fantasy|War,148,zh,7.089,499
+5503,tt0106977,The Fugitive,1993-08-06,44000000,368875760,Action|Thriller|Drama,131,en,7.49,4944
+228161,tt2224026,Home,2015-03-18,135000000,368871007,Fantasy|Comedy|Animation|Science Fiction|Family,94,en,6.789,4314
+331,tt0163025,Jurassic Park III,2001-07-18,93000000,368780809,Adventure|Thriller|Science Fiction|Action,92,en,6.2,8057
+8346,tt0259446,My Big Fat Greek Wedding,2002-04-19,5000000,368744044,Comedy|Drama|Romance,95,en,6.495,2346
+287947,tt0448115,Shazam!,2019-03-29,80000000,367799011,Action|Comedy|Fantasy,132,en,6.969,10425
+10555,tt0307453,Shark Tale,2004-09-20,75000000,367300000,Animation|Action|Comedy|Family,90,en,6.045,6826
+1572,tt0112864,Die Hard: With a Vengeance,1995-05-19,90000000,366101666,Action|Thriller,128,en,7.283,6835
+439079,tt5814060,The Nun,2018-09-05,22000000,366082797,Horror,96,en,5.91,7300
+577922,tt6723592,Tenet,2020-08-22,205000000,365304105,Action|Thriller|Science Fiction,150,en,7.171,11497
+509,tt0125439,Notting Hill,1999-05-21,42000000,363889678,Romance|Comedy,124,en,7.264,6877
+9487,tt0120623,A Bug's Life,1998-11-25,80000000,363258859,Adventure|Animation|Comedy|Family,95,en,6.982,9906
+181533,tt2692250,Night at the Museum: Secret of the Tomb,2014-12-17,127000000,363204635,Adventure|Comedy|Fantasy|Family,98,en,6.229,6332
+13804,tt1013752,Fast & Furious,2009-04-02,85000000,363164265,Action|Crime|Thriller,107,en,6.688,7988
+163,tt0349903,Ocean's Twelve,2004-12-09,110000000,362744280,Thriller|Crime,125,en,6.567,8112
+86834,tt1959490,Noah,2014-03-07,125000000,362600000,Drama|Adventure,138,en,5.679,6729
+869,tt0133152,Planet of the Apes,2001-07-26,100000000,362211740,Thriller|Science Fiction|Action|Adventure,120,en,5.78,4543
+109439,tt1951261,The Hangover Part III,2013-05-23,103000000,362000072,Comedy,100,en,6.213,9423
+36643,tt0143145,The World Is Not Enough,1999-11-17,135000000,361832400,Adventure|Action|Thriller,128,en,6.288,3364
+497984,tt6170484,Monster Hunt 2,2018-02-16,0,361682618,Adventure|Comedy|Fantasy,110,zh,6.7,148
+6477,tt0952640,Alvin and the Chipmunks,2007-12-13,60000000,361366633,Comedy|Family|Fantasy|Animation,92,en,5.841,4823
+38575,tt1155076,The Karate Kid,2010-06-10,40000000,359126022,Action|Adventure|Drama|Family,140,en,6.567,6701
+772,tt0104431,Home Alone 2: Lost in New York,1992-11-15,18000000,358994850,Comedy|Family|Adventure,120,en,6.793,10883
+76492,tt0837562,Hotel Transylvania,2012-09-20,85000000,358375603,Animation|Comedy|Family|Fantasy,91,en,6.97,9350
+180,tt0181689,Minority Report,2002-06-20,102000000,358372926,Science Fiction|Action|Thriller,145,en,7.355,9919
+744,tt0092099,Top Gun,1986-05-16,15000000,356830601,Action|Drama|Romance,110,en,7.072,9893
+258489,tt0918940,The Legend of Tarzan,2016-06-29,180000000,356743061,Fantasy|Action|Adventure,109,en,5.925,6619
+14,tt0169547,American Beauty,1999-09-15,15000000,356296601,Drama,122,en,7.996,13331
+72545,tt1397514,Journey 2: The Mysterious Island,2012-01-19,79000000,355692760,Adventure|Action|Science Fiction,94,en,6.154,4614
+568,tt0112384,Apollo 13,1995-06-30,52000000,355237933,Drama|History,140,en,7.463,6103
+380,tt0095953,Rain Man,1988-12-12,25000000,354825435,Drama,134,en,7.75,7314
+10567,tt0130623,Dinosaur,2000-05-19,127500000,354248063,Adventure|Animation|Drama|Family,82,en,6.59,2816
+49538,tt1270798,X-Men: First Class,2011-06-01,160000000,353624124,Action|Science Fiction|Adventure,132,en,7.305,13841
+329996,tt3861390,Dumbo,2019-03-27,170000000,353284621,Family|Fantasy|Adventure,112,en,6.6,4574
+402,tt0103772,Basic Instinct,1992-03-20,49000000,352927224,Thriller|Mystery,128,en,6.948,4526
+392044,tt3402236,Murder on the Orient Express,2017-11-03,55000000,352800000,Mystery|Drama|Crime,114,en,6.706,10717
+710,tt0113189,GoldenEye,1995-11-16,60000000,352194034,Adventure|Action|Thriller,130,en,6.906,4469
+640,tt0264464,Catch Me If You Can,2002-12-16,52000000,352114312,Drama|Crime,141,en,7.978,17531
+75656,tt1670345,Now You See Me,2013-05-29,75000000,351723989,Thriller|Crime,116,en,7.326,17110
+9740,tt0212985,Hannibal,2001-02-08,87000000,351692268,Crime|Drama|Thriller,131,en,6.779,5329
+854,tt0110475,The Mask,1994-07-29,23000000,351583407,Comedy|Fantasy|Crime|Romance,101,en,6.995,11565
+856,tt0096438,Who Framed Roger Rabbit,1988-06-22,50600000,351500000,Fantasy|Animation|Comedy|Crime,104,en,7.541,6335
+1079091,tt10655524,It Ends with Us,2024-08-07,55000000,351441044,Drama|Romance,131,en,6.95,2043
+381719,tt5117670,Peter Rabbit,2018-02-07,50000000,351266433,Animation|Adventure|Family,93,en,6.695,1975
+64682,tt1343092,The Great Gatsby,2013-05-09,105000000,351040419,Drama|Romance,143,en,7.346,13155
+945961,tt18412256,Alien: Romulus,2024-08-13,80000000,350865342,Horror|Science Fiction,119,en,7.158,4871
+1637,tt0111257,Speed,1994-06-09,30000000,350448145,Action|Thriller,116,en,7.161,7048
+153518,tt1985949,The Angry Birds Movie,2016-05-11,73000000,349779543,Animation|Adventure|Comedy|Family,97,en,6.294,4126
+8656,tt0120647,Deep Impact,1998-05-08,75000000,349464664,Action|Drama|Science Fiction,122,en,6.25,3453
+73723,tt1482459,The Lorax,2012-03-01,70000000,349305397,Animation|Family,86,en,6.537,3977
+400650,tt5028340,Mary Poppins Returns,2018-12-13,130000000,348807090,Fantasy|Family|Comedy,131,en,6.51,3521
+198663,tt1790864,The Maze Runner,2014-09-10,34000000,348319861,Action|Mystery|Science Fiction|Thriller,113,en,7.19,18448
+2059,tt0368891,National Treasure,2004-11-19,100000000,347500000,Adventure|Action|Mystery,131,en,6.653,7050
+77931,tt2017020,The Smurfs 2,2013-07-30,105000000,347434178,Fantasy|Family|Comedy|Animation,105,en,5.747,2412
+136799,tt1679335,Trolls,2016-10-13,125000000,347337803,Adventure|Animation|Comedy|Family|Fantasy,92,en,6.622,3896
+5175,tt0266915,Rush Hour 2,2001-08-03,90000000,347325802,Action|Comedy|Crime,90,en,6.777,4764
+2048,tt0343818,"I, Robot",2004-07-15,120000000,347234916,Action|Science Fiction,115,en,6.97,12973
+47971,tt1293847,xXx: Return of Xander Cage,2017-01-13,85000000,346118277,Action|Adventure|Crime,107,en,6.128,9323
+10530,tt0114148,Pocahontas,1995-06-16,55000000,346079773,Adventure|Animation|Family|Romance,81,en,6.913,6191
+8871,tt0170016,How the Grinch Stole Christmas,2000-11-17,123000000,345800000,Family|Comedy|Fantasy,105,en,6.78,8443
+1228710,tt30825738,The Mandalorian and Grogu,2026-05-20,165000000,345166617,Action|Adventure|Science Fiction,132,en,7.482,1577
+188927,tt2660888,Star Trek Beyond,2016-07-07,185000000,343471816,Action|Adventure|Science Fiction,122,en,6.791,7249
+7518,tt0327084,Over the Hedge,2006-05-17,80000000,343397247,Adventure|Animation|Comedy|Family,83,en,6.609,4971
+55301,tt1615918,Alvin and the Chipmunks: Chipwrecked,2011-12-14,75000000,342695435,Comedy|Fantasy|Family|Music|Animation,87,en,5.705,2395
+8909,tt0493464,Wanted,2008-06-19,75000000,342463063,Action|Thriller|Crime,110,en,6.531,7773
+888,tt0109813,The Flintstones,1994-05-27,46000000,341631208,Fantasy|Comedy|Family,91,en,5.4,2678
+447332,tt6644200,A Quiet Place,2018-04-03,17000000,340955294,Horror|Drama|Science Fiction,91,en,7.395,15698
+4523,tt0461770,Enchanted,2007-11-20,85000000,340487652,Comedy|Family|Fantasy|Romance,107,en,6.848,5816
+53182,tt1253863,300: Rise of an Empire,2014-03-05,110000000,337580051,Action|Drama|War,102,en,6.12,7112
+1147596,tt28258332,Article 20,2024-02-10,0,337554287,Drama|Comedy,141,zh,6.877,57
+695721,tt10545296,The Hunger Games: The Ballad of Songbirds & Snakes,2023-11-15,100000000,337371917,Science Fiction|Action,157,en,6.956,3664
+414,tt0112462,Batman Forever,1995-06-16,100000000,336529144,Action|Crime|Fantasy,121,en,5.46,5728
+9543,tt0473075,Prince of Persia: The Sands of Time,2010-05-19,200000000,336365676,Adventure|Fantasy|Action,116,en,6.312,7319
+4922,tt0421715,The Curious Case of Benjamin Button,2008-12-25,150000000,335802786,Drama|Fantasy|Romance,166,en,7.603,14014
+9802,tt0117500,The Rock,1996-06-07,75000000,335062621,Action|Adventure|Thriller,137,en,7.157,5364
+291805,tt3110958,Now You See Me 2,2016-06-02,120000000,334897606,Crime|Thriller,129,en,6.823,11792
+58574,tt1515091,Sherlock Holmes: A Game of Shadows,2011-11-22,125000000,334615000,Action|Adventure|Mystery,129,en,7.147,11141
+479306,tt7431894,Never Say Die,2017-09-30,0,334530869,Comedy|Fantasy,100,zh,6.0,90
+1108211,tt17507018,Lost in the Stars,2023-06-22,9500000,334039200,Mystery|Crime|Thriller,122,zh,6.4,111
+116149,tt1109624,Paddington,2014-11-24,55000000,333960862,Comedy|Adventure|Family,95,en,7.125,4344
+9738,tt0120667,Fantastic Four,2005-06-29,100000000,333535934,Action|Fantasy|Science Fiction,106,en,5.81,10200
+714,tt0120347,Tomorrow Never Dies,1997-12-11,110000000,333011068,Adventure|Action|Thriller,119,en,6.389,3546
+87,tt0087469,Indiana Jones and the Temple of Doom,1984-05-23,28000000,333000000,Adventure|Action,118,en,7.309,10364
+105864,tt1979388,The Good Dinosaur,2015-11-14,175000000,332207671,Adventure|Animation|Family,93,en,6.751,6147
+331482,tt3281548,Little Women,2019-12-25,40000000,332103783,Drama|Romance,135,en,7.8,6996
+165,tt0096874,Back to the Future Part II,1989-11-22,40000000,332000000,Adventure|Comedy|Science Fiction,108,en,7.785,14265
+1184918,tt29623480,The Wild Robot,2024-09-12,78000000,331982078,Family|Animation|Science Fiction|Adventure,102,en,8.306,6573
+311324,tt2034800,The Great Wall,2016-12-16,150000000,331957105,Action|Adventure|Fantasy,103,en,6.033,5668
+550988,tt6264654,Free Guy,2021-08-11,110000000,331526598,Comedy|Adventure|Science Fiction,115,en,7.437,10148
+187017,tt2294449,22 Jump Street,2014-06-05,50000000,331333876,Crime|Comedy|Action,112,en,6.826,8709
+1597,tt0212338,Meet the Parents,2000-10-06,55000000,330444045,Comedy|Romance,108,en,6.7,6551
+44214,tt0947798,Black Swan,2010-12-03,13000000,329398046,Drama|Thriller|Horror,108,en,7.683,15858
+2133,tt0177971,The Perfect Storm,2000-06-29,130000000,328718434,Drama|Adventure|Action|Thriller,130,en,6.489,2653
+458156,tt6146586,John Wick: Chapter 3 - Parabellum,2019-05-15,55000000,328349908,Action|Thriller|Crime,131,en,7.438,12055
+9671,tt0090555,Crocodile Dundee,1986-09-26,5000000,328203506,Adventure|Comedy,97,en,6.445,2201
+807,tt0114369,Se7en,1995-09-22,33000000,327311859,Crime|Mystery|Thriller,127,en,8.4,23744
+350,tt0458352,The Devil Wears Prada,2006-06-29,35000000,326588371,Drama|Comedy,109,en,7.436,14216
+260346,tt2446042,Taken 3,2014-12-16,48000000,325800000,Thriller|Action,109,en,6.266,6279
+10545,tt0116583,The Hunchback of Notre Dame,1996-06-21,100000000,325300000,Drama|Animation|Family,91,en,7.136,5472
+17979,tt1067106,A Christmas Carol,2009-11-04,200000000,325286646,Animation|Drama|Family|Fantasy,96,en,6.91,4983
+228165,tt2279373,The SpongeBob Movie: Sponge Out of Water,2015-01-28,74000000,325186032,Adventure|Animation|Comedy|Family|Fantasy,93,en,6.116,2598
+259693,tt3065204,The Conjuring 2,2016-06-08,40000000,322819915,Horror,134,en,7.295,9397
+38055,tt1001526,Megamind,2010-10-28,130000000,321885765,Animation|Action|Comedy|Family|Science Fiction,96,en,7.039,7679
+490132,tt6966692,Green Book,2018-11-16,23000000,321752656,Drama|Comedy|History,130,en,8.223,13218
+943,tt0104714,Lethal Weapon 3,1992-05-15,35000000,321731527,Action|Thriller|Crime,118,en,6.728,3360
+20943,tt1142988,The Ugly Truth,2009-07-24,38000000,321700000,Comedy|Romance,96,en,6.51,3838
+20662,tt0955308,Robin Hood,2010-05-12,200000000,321669741,Action|Adventure|History|Drama,140,en,6.399,5140
+16869,tt0361748,Inglourious Basterds,2009-08-02,70000000,321457747,Drama|Thriller|War,153,en,8.217,24732
+424,tt0108052,Schindler's List,1993-12-15,22000000,321365567,Drama|History|War,195,en,8.57,17889
+138843,tt1457767,The Conjuring,2013-07-18,13000000,321293998,Horror|Thriller,112,en,7.5,13044
+11674,tt0115433,101 Dalmatians,1996-11-27,54000000,320689294,Family|Comedy,103,en,5.948,3720
+10998,tt0093010,Fatal Attraction,1987-09-18,14000000,320145693,Thriller|Drama|Romance,119,en,6.834,1751
+454626,tt3794354,Sonic the Hedgehog,2020-02-12,85000000,319715683,Action|Science Fiction|Comedy|Family,99,en,7.27,10569
+10196,tt0938283,The Last Airbender,2010-06-30,150000000,319713881,Action|Adventure|Fantasy,103,en,4.641,4356
+5255,tt0338348,The Polar Express,2004-11-10,165000000,318432432,Adventure|Animation|Family|Fantasy,100,en,6.725,7023
+574475,tt9619824,Final Destination Bloodlines,2025-05-14,50000000,317854739,Horror|Mystery,110,en,7.032,3104
+18240,tt1041829,The Proposal,2009-06-02,40000000,317400000,Comedy|Romance|Drama,108,en,7.18,7754
+453,tt0268978,A Beautiful Mind,2001-12-14,58000000,316791257,Drama|Romance,135,en,7.852,11369
+90,tt0086960,Beverly Hills Cop,1984-12-05,14000000,316360478,Comedy|Crime|Action,105,en,7.213,4729
+9772,tt0118571,Air Force One,1997-07-25,85000000,315200000,Action|Thriller,124,en,6.467,3421
+406997,tt2543472,Wonder,2017-11-13,20000000,315025930,Family|Drama,113,en,8.099,8390
+916224,tt16428256,Suzume,2022-11-11,13000000,314992206,Animation|Drama|Adventure|Fantasy,122,ja,7.885,1839
+76163,tt1764651,The Expendables 2,2012-08-15,100000000,314975955,Action|Adventure|Thriller,103,en,6.355,7315
+9982,tt0371606,Chicken Little,2005-11-04,150000000,314400000,Animation|Family|Comedy,81,en,5.92,4256
+2898,tt0119822,As Good as It Gets,1997-12-19,50000000,314178011,Drama|Comedy|Romance,139,en,7.4,4237
+546554,tt8946378,Knives Out,2019-11-27,40000000,312897920,Comedy|Crime|Mystery,131,en,7.843,14467
+294254,tt4046784,Maze Runner: The Scorch Trials,2015-09-09,61000000,312296056,Science Fiction|Action|Thriller|Adventure,131,en,6.732,11230
+173897,tt2592614,Resident Evil: The Final Chapter,2016-12-23,40000000,312242626,Action|Horror|Science Fiction,107,en,6.1,3587
+817,tt0145660,Austin Powers: The Spy Who Shagged Me,1999-06-08,33000000,312016928,Comedy|Adventure|Crime,95,en,6.323,3793
+1718705,,The Last Kingdom of Ash,,85000000,312000000,,128,en,0.0,0
+324849,tt4116284,The Lego Batman Movie,2017-02-08,80000000,311950384,Animation|Action|Comedy|Family,104,en,7.26,5561
+298,tt0496806,Ocean's Thirteen,2007-06-05,85000000,311312624,Crime|Thriller,122,en,6.732,7071
+360814,tt5074352,Dangal,2016-12-21,10400000,311000000,Drama|Family|Comedy,161,hi,7.869,1216
+39451,tt0970866,Little Fockers,2010-12-21,100000000,310650585,Comedy|Romance,98,en,5.664,3519
+13053,tt0397892,Bolt,2008-11-21,150000000,309979994,Animation|Family|Adventure|Comedy,98,en,6.553,6640
+4806,tt0163187,Runaway Bride,1999-07-30,70000000,309500000,Comedy|Romance,116,en,6.097,2215
+3595,tt0117438,Ransom,1996-11-08,80000000,309492681,Action|Thriller,121,en,6.696,2189
+22881,tt0878804,The Blind Side,2009-11-20,29000000,309231694,Drama,129,en,7.664,6981
+1108427,tt27419466,Moana,2026-07-08,250000000,308159595,Family|Fantasy|Comedy|Adventure,115,en,7.045,539
+222935,tt2582846,The Fault in Our Stars,2014-06-03,14000000,307166834,Romance|Drama,126,en,7.59,11685
+1402,tt0454921,The Pursuit of Happyness,2006-12-14,55000000,307077295,Drama,117,en,7.883,10842
+81188,tt1446192,Rise of the Guardians,2012-11-21,145000000,306941670,Action|Adventure|Animation|Family|Fantasy,97,en,7.379,7275
+840,tt0075860,Close Encounters of the Third Kind,1977-12-14,20000000,306889114,Science Fiction|Drama,137,en,7.359,4839
+1574,tt0299658,Chicago,2002-12-10,45000000,306776732,Comedy|Crime|Drama,113,en,7.132,2977
+396422,tt5140878,Annabelle: Creation,2017-08-03,15000000,306592201,Horror,110,en,6.608,6087
+1391021,tt34386754,Once Upon a Time in the Middle East,2026-08-08,0,305600000,Drama|War,140,zh,9.1,37
+447200,tt5758778,Skyscraper,2018-07-11,125000000,304870828,Action|Thriller|Adventure,102,en,6.304,5442
+47964,tt1606378,A Good Day to Die Hard,2013-02-06,92000000,304654182,Action|Thriller,98,en,5.326,6868
+10674,tt0120762,Mulan,1998-06-18,90000000,304320254,Animation|Family|Adventure,88,en,7.902,10662
+274870,tt1355644,Passengers,2016-12-21,110000000,303144152,Drama|Romance|Science Fiction,116,en,6.955,14484
+44833,tt1440129,Battleship,2012-04-11,209000000,303025485,Thriller|Action|Adventure|Science Fiction,131,en,5.934,6160
+12230,tt0055254,One Hundred and One Dalmatians,1961-01-25,3600000,303000000,Adventure|Animation|Comedy|Family,79,en,7.178,6770
+1624,tt0119528,Liar Liar,1997-03-21,45000000,302710615,Comedy|Fantasy,86,en,6.718,6398
+14869,tt1046173,G.I. Joe: The Rise of Cobra,2009-08-03,175000000,302500000,Adventure|Action|Thriller|Science Fiction,118,en,5.783,5020
+57165,tt1646987,Wrath of the Titans,2012-03-28,150000000,301970083,Fantasy|Adventure|Action,99,en,5.774,4600
+1979,tt0486576,Fantastic Four: Rise of the Silver Surfer,2007-06-13,130000000,301913131,Science Fiction|Adventure|Action,92,en,5.635,8568
+879,tt0102057,Hook,1991-04-10,70000000,300854823,Adventure|Fantasy|Comedy|Family,142,en,6.846,5866
+1924,tt0078346,Superman,1978-12-14,55000000,300478449,Science Fiction|Action|Adventure,144,en,7.166,4411
+1374,tt0089927,Rocky IV,1985-11-21,31000000,300473716,Drama|Action,91,en,7.096,4956
+1369,tt0089880,Rambo: First Blood Part II,1985-05-21,44000000,300400432,Action|Adventure|Thriller|War,96,en,6.67,4458
+7131,tt0338526,Van Helsing,2004-05-03,160000000,300257475,Horror|Adventure|Action,132,en,6.426,6842
+35791,tt1220634,Resident Evil: Afterlife,2010-09-01,60000000,300228084,Action|Adventure|Horror|Science Fiction,97,en,6.1,4335
+10137,tt0164912,Stuart Little,1999-12-17,133000000,300135367,Family|Fantasy|Comedy|Adventure,84,en,6.08,4749
+1709464,tt38084416,The Wizard of Oz at Sphere,2025-08-28,100000000,300000000,Adventure|Family|Fantasy,75,en,0.0,0
+96,tt0092644,Beverly Hills Cop II,1987-05-18,28000000,299965036,Action|Comedy|Crime,103,en,6.534,2906
+241259,tt2567026,Alice Through the Looking Glass,2016-05-25,170000000,299457024,Adventure|Family|Fantasy,113,en,6.567,6878
+39254,tt0433035,Real Steel,2011-09-28,110000000,299300000,Action|Science Fiction|Drama,127,en,7.142,9525
+8874,tt0119738,My Best Friend's Wedding,1997-06-19,38000000,299288605,Comedy|Romance,105,en,6.562,2959
+940551,tt6495056,Migration,2023-12-06,72000000,298776052,Family|Comedy|Adventure|Animation,83,en,7.357,2318
+12222,tt0451079,Horton Hears a Who!,2008-03-03,85000000,298572799,Animation|Comedy|Family|Adventure|Fantasy,86,en,6.524,3621
+402900,tt5164214,Ocean's Eight,2018-06-07,70000000,297718711,Crime|Comedy|Action,111,en,6.946,8978
+520763,tt8332922,A Quiet Place Part II,2021-05-21,55000000,297372261,Science Fiction|Thriller|Horror,97,en,7.428,7622
+507089,tt4589218,Five Nights at Freddy's,2023-10-25,20000000,297242145,Horror|Thriller,110,en,7.277,5182
+262500,tt2908446,Insurgent,2015-03-18,110000000,297002527,Action|Science Fiction|Thriller,119,en,6.36,10588
+9494,tt0097778,Look Who's Talking,1989-10-12,7500000,296999813,Comedy|Romance,96,en,6.292,2529
+818,tt0295178,Austin Powers in Goldmember,2002-07-26,63000000,296938801,Comedy|Crime,94,en,6.019,3536
+620,tt0087332,Ghostbusters,1984-06-08,30000000,296640120,Comedy|Fantasy,105,en,7.498,9980
+283366,tt1935859,Miss Peregrine's Home for Peculiar Children,2016-09-28,110000000,296482446,Adventure|Fantasy,127,en,6.841,10615
+36657,tt0120903,X-Men,2000-07-13,75000000,296339527,Adventure|Action|Science Fiction,104,en,7.022,12507
+364689,tt3411444,Ferdinand,2017-12-09,111000000,295038508,Animation|Family|Adventure|Comedy,108,en,7.211,3159
+11324,tt1130884,Shutter Island,2010-02-14,80000000,294804195,Drama|Thriller|Mystery,138,en,8.197,26400
+3050,tt0118998,Doctor Dolittle,1998-06-26,71000000,294500000,Comedy|Family|Fantasy,85,en,5.73,3378
+508883,tt6587046,The Boy and the Heron,2023-07-14,50000000,294200000,Animation|Fantasy|Drama,124,ja,7.379,2792
+27576,tt0944835,Salt,2010-07-21,110000000,293329073,Action|Mystery|Thriller,100,en,6.418,6063
+19585,tt0436339,G-Force,2009-07-24,150000000,292817841,Family|Fantasy|Action|Adventure|Comedy,88,en,5.484,2050
+1422,tt0407887,The Departed,2006-10-04,90000000,291465000,Drama|Thriller|Crime,151,en,8.159,16617
+2655,tt0161081,What Lies Beneath,2000-07-21,100000000,291420351,Drama|Horror|Mystery|Thriller,130,en,6.438,2088
+37786,tt1261945,Sex and the City 2,2010-05-26,100000000,290700000,Comedy|Drama|Romance,146,en,6.038,1757
+346648,tt4468740,Paddington 2,2017-11-09,40000000,290132513,Adventure|Comedy|Family,104,en,7.485,2890
+268896,tt2557478,Pacific Rim: Uprising,2018-03-21,150000000,290061297,Action|Fantasy|Science Fiction|Adventure,111,en,6.119,5483
+1934,tt0138097,Shakespeare in Love,1998-12-11,25000000,289317794,Romance|History|Comedy|Drama,124,en,6.824,3276
+157350,tt1840309,Divergent,2014-03-14,85000000,288885818,Action|Adventure|Science Fiction,140,en,6.9,13705
+9602,tt0094898,Coming to America,1988-06-29,30000000,288752301,Comedy|Romance,117,en,6.884,4869
+614934,tt3704428,Elvis,2022-06-22,85000000,288670284,Music|History|Drama,159,en,7.441,4008
+2502,tt0372183,The Bourne Supremacy,2004-07-23,75000000,288500217,Action|Drama|Thriller,108,en,7.334,8399
+9522,tt0396269,Wedding Crashers,2005-07-13,40000000,288500000,Comedy|Romance,119,en,6.502,4825
+336843,tt4500922,Maze Runner: The Death Cure,2018-01-10,62000000,288418190,Science Fiction|Action|Adventure|Thriller,143,en,7.079,8567
+55721,tt1478338,Bridesmaids,2011-05-13,32500000,288383523,Comedy|Romance,125,en,6.509,4768
+8839,tt0112642,Casper,1995-05-26,50000000,287928194,Fantasy|Comedy|Family,100,en,6.3,5045
+5559,tt0389790,Bee Movie,2007-10-28,150000000,287594577,Family|Animation|Adventure|Comedy,91,en,6.053,5414
+2770,tt0252866,American Pie 2,2001-08-10,30000000,287553595,Comedy|Romance,111,en,6.269,5448
+254470,tt2848292,Pitch Perfect 2,2015-05-07,29000000,287144079,Comedy|Music,115,en,6.84,5582
+497,tt0120689,The Green Mile,1999-12-10,60000000,286801374,Fantasy|Drama|Crime,189,en,8.506,19788
+15121,tt0059742,The Sound of Music,1965-03-29,8200000,286214286,Drama|Family|Music|Romance,174,en,7.729,3732
+75612,tt1483013,Oblivion,2013-04-10,120000000,286168572,Action|Science Fiction|Adventure|Mystery,124,en,6.692,11810
+68724,tt1535108,Elysium,2013-08-07,115000000,286140700,Science Fiction|Action|Drama|Thriller,109,en,6.526,9806
+944,tt0122151,Lethal Weapon 4,1998-07-10,140000000,285444603,Action|Crime|Thriller,127,en,6.607,3060
+49529,tt0401729,John Carter,2012-03-07,263700000,284100000,Action|Adventure|Science Fiction,132,en,6.385,6277
+591273,tt6566576,Fear Street: 1994,2021-06-28,10000000,284000000,Horror|Mystery|Drama,108,en,6.683,2745
+77950,tt1860353,Turbo,2013-07-11,135000000,282570682,Animation|Family,96,en,6.281,3782
+634,tt0243155,Bridget Jones's Diary,2001-04-13,25000000,281929795,Comedy|Romance|Drama,97,en,6.74,5622
+350312,tt4849438,Bāhubali 2: The Conclusion,2017-04-27,31000000,280700000,Action|Adventure|Fantasy,167,te,7.494,882
+364,tt0103776,Batman Returns,1992-06-19,80000000,280000000,Action|Fantasy,126,en,6.95,7263
+37710,tt1243957,The Tourist,2010-12-08,100000000,278731369,Action|Thriller|Romance,103,en,6.188,5851
+381288,tt4972582,Split,2017-01-19,9000000,278454358,Horror|Thriller,117,en,7.341,18611
+299824,tt4276752,Mojin: The Lost Legend,2015-12-18,37000000,278300000,Action|Adventure|Fantasy|Drama|Horror|Mystery|Thriller,127,zh,6.2,267
+4247,tt0175142,Scary Movie,2000-07-07,19000000,278023280,Comedy,88,en,6.429,8130
+7451,tt0295701,xXx,2002-08-09,70000000,277448382,Action|Adventure|Thriller|Crime|Drama,124,en,5.988,5024
+49040,tt1194173,The Bourne Legacy,2012-08-08,130000000,276600000,Action|Thriller,135,en,6.252,6272
+1228564,tt29632994,Boonie Bears: Time Twist,2024-02-10,40000000,275815986,Animation|Comedy|Science Fiction|Family,105,zh,8.0,9
+9637,tt0267913,Scooby-Doo,2002-06-14,84000000,275650703,Mystery|Adventure|Comedy,87,en,6.1,4880
+677179,tt11145118,Creed III,2023-03-01,75000000,275300000,Drama|Action,116,en,7.087,2971
+72976,tt0443272,Lincoln,2012-11-09,65000000,275300000,History|Drama,150,en,6.841,4141
+129,tt0245429,Spirited Away,2001-07-20,19000000,274925095,Animation|Family|Fantasy,125,ja,8.534,18874
+1995,tt0146316,Lara Croft: Tomb Raider,2001-06-15,115000000,274703340,Adventure|Action|Fantasy,100,en,5.917,6664
+338970,tt1365519,Tomb Raider,2018-03-05,94000000,274650803,Action|Adventure|Fantasy,118,en,6.363,8504
+27578,tt1320253,The Expendables,2010-08-07,80000000,274470394,Thriller|Adventure|Action,103,en,6.252,8459
+1321624,tt33028976,731,2025-09-18,0,273896228,Drama|War,125,zh,5.3,24
+9390,tt0116695,Jerry Maguire,1996-12-13,50000000,273600000,Comedy|Drama|Romance,139,en,7.002,3870
+8961,tt0172156,Bad Boys II,2003-07-18,130000000,273339556,Action|Crime|Comedy,146,en,6.659,6104
+11544,tt0275847,Lilo & Stitch,2002-06-21,80000000,273144151,Animation|Family|Comedy|Science Fiction,85,en,7.559,7235
+82703,tt0864835,Mr. Peabody & Sherman,2014-02-07,145000000,272912430,Animation|Science Fiction|Comedy|Adventure|Family,92,en,6.733,2599
+274,tt0102926,The Silence of the Lambs,1991-02-14,19000000,272742922,Crime|Thriller|Drama,119,en,8.345,18478
+38365,tt1375670,Grown Ups,2010-06-24,80000000,271457606,Comedy,102,en,6.436,6869
+298618,tt0439572,The Flash,2023-06-13,220000000,271333313,Action|Science Fiction|Adventure,144,en,6.608,5240
+10198,tt0780521,The Princess and the Frog,2009-12-08,105000000,270997378,Animation|Romance|Fantasy|Family,98,en,7.235,6271
+195589,tt2004420,Neighbors,2014-05-08,18000000,270665134,Comedy,97,en,6.178,7404
+37233,tt0106918,The Firm,1993-06-30,42000000,270248367,Drama|Mystery|Thriller,154,en,6.747,2401
+138832,tt1723121,We're the Millers,2013-08-07,37000000,270000000,Comedy|Crime,110,en,6.84,9649
+13223,tt1205489,Gran Torino,2008-12-12,33000000,270000000,Drama,116,en,7.988,11805
+6964,tt0337741,Something's Gotta Give,2003-12-12,80000000,270000000,Drama|Comedy|Romance,128,en,6.6,1826
+1078605,tt26581740,Weapons,2025-08-04,38000000,269972492,Horror|Mystery,129,en,7.257,3911
+7840,tt0443649,"10,000 BC",2008-03-04,105000000,269784201,Adventure|Action|Drama|Fantasy,109,en,5.51,3248
+4982,tt0765429,American Gangster,2007-11-02,100000000,269755430,Drama|Crime,157,en,7.597,6220
+968051,tt10160976,The Nun II,2023-09-06,38500000,269670590,Horror,110,en,6.625,2575
+116711,tt0848537,Epic,2013-05-15,100000000,268426634,Animation|Adventure|Family|Fantasy,102,en,6.562,3005
+147441,tt1528100,Exodus: Gods and Kings,2014-12-03,140000000,268031828,Adventure|Drama|Action,150,en,5.884,4940
+3170,tt0034492,Bambi,1942-08-14,858000,267447150,Animation|Drama|Family,70,en,7.015,6127
+4478,tt0107211,Indecent Proposal,1993-04-07,38000000,266614059,Romance|Drama,117,en,6.41,1668
+9801,tt0317198,Bridget Jones: The Edge of Reason,2004-11-10,40000000,265126918,Comedy|Romance,108,en,6.227,3079
+1724,tt0800080,The Incredible Hulk,2008-06-12,150000000,264770996,Science Fiction|Action|Adventure,114,en,6.26,13120
+9804,tt0114898,Waterworld,1995-07-28,175000000,264218220,Adventure|Action|Science Fiction,135,en,6.237,4218
+37165,tt0120382,The Truman Show,1998-06-04,60000000,264118712,Comedy|Drama,103,en,8.158,20816
+4327,tt0160127,Charlie's Angels,2000-11-02,92000000,264105545,Action|Comedy|Adventure,98,en,5.853,4630
+18,tt0119116,The Fifth Element,1997-05-02,90000000,263920180,Science Fiction|Action|Adventure,126,fr,7.591,12127
+11224,tt0042332,Cinderella,1950-02-22,2900000,263600000,Family|Fantasy|Animation|Romance,74,en,7.053,7278
+8844,tt0113497,Jumanji,1995-12-15,65000000,262821940,Adventure|Fantasy|Family,104,en,7.25,11546
+496,tt0443453,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006-11-01,18000000,262552893,Comedy,84,en,6.789,6151
+9928,tt0358082,Robots,2005-03-10,75000000,262511490,Animation|Comedy|Family|Science Fiction,90,en,6.504,5057
+37834,tt1013743,Knight and Day,2010-06-15,117000000,261989769,Action|Comedy,109,en,6.238,5029
+762441,tt13433802,A Quiet Place: Day One,2024-06-26,67000000,261907653,Horror|Science Fiction|Thriller,100,en,6.631,3556
+1160164,tt28814949,TAYLOR SWIFT | THE ERAS TOUR,2023-10-13,15000000,261656269,Music,169,en,8.167,536
+861,tt0100802,Total Recall,1990-06-01,65000000,261317921,Action|Adventure|Science Fiction,113,en,7.329,6678
+568124,tt2953050,Encanto,2021-10-13,150000000,261292688,Animation|Comedy|Family|Fantasy,102,en,7.566,10393
+13576,tt1477715,This Is It,2009-10-28,60000000,261200000,Music|Documentary,111,en,7.359,1103
+290859,tt6450804,Terminator: Dark Fate,2019-10-23,185000000,261119292,Science Fiction|Action|Adventure|Thriller,128,en,6.421,5845
+57201,tt1210819,The Lone Ranger,2013-07-03,215000000,260502115,Action|Adventure|Western,149,en,6.131,6270
+37686,tt1650062,Super 8,2011-06-09,50000000,260100000,Thriller|Science Fiction|Mystery,112,en,6.784,7269
+424139,tt1502407,Halloween,2018-10-18,10000000,259939869,Horror|Thriller,106,en,6.561,5147
+335984,tt1856101,Blade Runner 2049,2017-10-04,150000000,259239658,Science Fiction|Drama,164,en,7.605,15650
+9471,tt0305357,Charlie's Angels: Full Throttle,2003-06-25,120000000,259175788,Action|Adventure|Comedy,106,en,5.484,3367
+62351,tt0050139,The Dollars Are Coming!,1957-03-29,0,258388291,Comedy,82,it,6.818,33
+5174,tt0293564,Rush Hour 3,2007-08-08,140000000,258097122,Action|Comedy|Crime,90,en,6.501,3845
+783675,tt15242330,The First Slam Dunk,2022-12-03,0,258000000,Animation|Comedy|Drama,125,ja,7.76,564
+9427,tt0119164,The Full Monty,1997-08-13,3500000,257850122,Comedy,91,en,7.004,1848
+496243,tt6751668,Parasite,2019-05-30,11363000,257591776,Comedy|Thriller|Drama,133,ko,8.49,21281
+250546,tt3322940,Annabelle,2014-10-01,6500000,257589952,Horror,99,en,5.791,6654
+6947,tt0368447,The Village,2004-07-30,60000000,256700000,Drama|Mystery|Thriller,108,en,6.495,4716
+462,tt0195685,Erin Brockovich,2000-03-17,52000000,256271286,Drama,131,en,7.427,3752
+458723,tt6857112,Us,2019-03-14,20000000,256071218,Horror|Mystery,116,en,6.937,8278
+575219,tt9597190,Pegasus,2019-02-05,40000000,255863112,Comedy|Action,98,zh,6.64,125
+14306,tt0822832,Marley & Me,2008-12-25,60000000,255700000,Comedy|Family,115,en,7.173,4872
+419430,tt5052448,Get Out,2017-02-24,4500000,255407969,Mystery|Thriller|Horror,104,en,7.625,19317
+9350,tt0106582,Cliffhanger,1993-05-28,70000000,255000211,Action|Adventure|Thriller,113,en,6.522,2731
+1022796,tt11304740,Wish,2023-11-13,175000000,254997360,Animation|Family|Fantasy|Adventure,95,en,6.22,1833
+748783,tt5779228,The Garfield Movie,2024-04-30,60000000,254907482,Adventure|Animation|Comedy|Family,101,en,6.95,1501
+383785,tt4217392,Kung Fu Yoga,2017-01-27,65000000,254212245,Comedy|Mystery|Family|Action|Adventure,107,zh,5.9,444
+9598,tt0112431,Babe,1995-07-18,30000000,254100000,Fantasy|Drama|Comedy|Family,92,en,6.295,3204
+479455,tt2283336,Men in Black: International,2019-06-12,110000000,253890701,Comedy|Science Fiction|Action|Adventure,115,en,5.891,5494
+945664,tt15801594,Lighting Up the Stars,2022-06-24,8800000,253816909,Drama,112,zh,7.414,58
+11199,tt0486946,Wild Hogs,2007-03-02,60000000,253625427,Action|Adventure|Comedy,100,en,5.973,2512
+11887,tt0962726,High School Musical 3: Senior Year,2008-10-11,11000000,252909177,Comedy|Drama|Family,112,en,6.539,3647
+11970,tt0119282,Hercules,1997-06-13,85000000,252712101,Animation|Family|Fantasy|Adventure|Comedy|Romance,93,en,7.498,8096
+1089654,tt27922374,Chang'an,2023-07-02,0,252520750,Animation|History,168,zh,7.642,67
+320288,tt6565702,Dark Phoenix,2019-06-05,200000000,252442974,Science Fiction|Action|Adventure,114,en,5.958,7288
+44264,tt1403865,True Grit,2010-12-22,38000000,252300000,Drama|Adventure|Western,110,en,7.305,5913
+448119,tt6673612,Dolittle,2020-01-02,175000000,251410631,Family|Comedy|Fantasy|Adventure,101,en,6.571,3949
+1281,tt0118689,Bean,1997-07-03,18000000,251212670,Family|Adventure|Comedy,89,en,6.48,2659
+168672,tt1800241,American Hustle,2013-12-12,40000000,251171807,Drama|Crime,138,en,6.852,7898
+9489,tt0128853,You've Got Mail,1998-12-18,65000000,250800000,Comedy|Romance,119,en,6.71,3746
+508,tt0314331,Love Actually,2003-09-07,40000000,250779876,Comedy|Romance|Drama,135,en,7.1,7545
+9798,tt0120660,Enemy of the State,1998-11-20,90000000,250649836,Action|Drama|Thriller,132,en,7.081,4414
+678512,tt7599146,Sound of Freedom,2023-07-03,14500000,250600000,Action|Drama,131,en,7.951,2832
+2486,tt0449010,Eragon,2006-12-14,100000000,250425512,Fantasy|Action|Adventure|Family,104,en,5.141,3517
+10009,tt0328880,Brother Bear,2003-10-23,128000000,250397798,Adventure|Animation|Family,85,en,7.283,5861
+9342,tt0120746,The Mask of Zorro,1998-07-16,95000000,250288523,Action|Adventure,138,en,6.582,4440
+2300,tt0117705,Space Jam,1996-11-15,80000000,250200000,Family|Animation|Science Fiction|Fantasy|Comedy,87,en,6.808,6551
+629542,tt8115900,The Bad Guys,2022-03-17,80000000,250162278,Action|Adventure|Animation|Comedy|Crime|Family,100,en,7.514,2673
+12289,tt0425637,Red Cliff,2008-07-10,80341000,250100000,Adventure|Drama|History|Action|War,145,zh,7.1,911
+1756546,,Batman v Superman: Dawn of Justice: Ultimate Edition,2016-06-28,874362803,250000000,,182,en,10.0,1
+1198553,,Nidja's Kitchen 2,2020-10-13,50000,250000000,Comedy|Drama,4,sr,0.0,0
+565,tt0298130,The Ring,2002-10-18,48000000,249348933,Horror|Mystery,115,en,6.707,6859
+435800,tt5273624,Journey to the West: The Demons Strike Back,2017-01-28,63900000,248805149,Adventure|Fantasy|Action,109,zh,6.017,144
+2667,tt0185937,The Blair Witch Project,1999-07-14,60000,248639099,Horror|Mystery,81,en,6.371,5648
+109451,tt1985966,Cloudy with a Chance of Meatballs 2,2013-09-26,78000000,248384621,Animation|Family|Comedy,95,en,6.455,3571
+9741,tt0217869,Unbreakable,2000-11-22,75000000,248118121,Thriller|Drama|Mystery,106,en,7.146,10133
+8467,tt0109686,Dumb and Dumber,1994-12-16,16000000,247275374,Comedy,107,en,6.663,6914
+109418,tt2191701,Grown Ups 2,2013-07-11,80000000,247022278,Comedy,101,en,6.189,4806
+450465,tt6823368,Glass,2019-01-16,20000000,246999039,Thriller|Drama|Science Fiction,129,en,6.664,9248
+227973,tt2452042,The Peanuts Movie,2015-11-05,99000000,246233113,Animation|Comedy|Family,88,en,7.0,1840
+44896,tt1192628,Rango,2011-03-02,135000000,245724603,Animation|Comedy|Family|Western|Adventure,107,en,6.919,7309
+712,tt0109831,Four Weddings and a Funeral,1994-03-09,4400000,245700832,Comedy|Drama|Romance,117,en,6.774,3073
+754,tt0119094,Face/Off,1997-06-27,80000000,245700000,Action|Crime|Science Fiction,139,en,7.061,6106
+308531,tt3949660,Teenage Mutant Ninja Turtles: Out of the Shadows,2016-05-30,135000000,245623848,Action|Adventure|Comedy|Family|Science Fiction,112,en,6.063,3878
+62213,tt1077368,Dark Shadows,2012-05-09,150000000,245527149,Comedy|Fantasy,113,en,6.105,7727
+1927,tt0286716,Hulk,2003-06-19,137000000,245360480,Science Fiction|Adventure|Action|Drama,138,en,5.6,6449
+605375,tt10218674,The Bravest,2019-08-29,0,245179562,Drama|Action,118,zh,7.096,89
+8265,tt1064932,Welcome to the Sticks,2008-02-20,11000000,245144417,Comedy|Drama|Romance,106,fr,6.71,2615
+238,tt0068646,The Godfather,1972-03-14,6000000,245066411,Drama|Crime,175,en,8.686,23532
+257344,tt2120120,Pixels,2015-07-16,88000000,244874809,Action|Comedy|Science Fiction|Adventure|Fantasy,106,en,5.786,8187
+184315,tt1267297,Hercules,2014-07-23,100000000,244819862,Action|Adventure,98,en,5.807,4434
+2109,tt0120812,Rush Hour,1998-09-18,33000000,244721064,Action|Comedy|Crime,97,en,7.084,5896
+196,tt0099088,Back to the Future Part III,1990-05-25,40000000,244527583,Adventure|Comedy|Science Fiction,119,en,7.496,11803
+82700,tt1815862,After Earth,2013-05-30,130000000,243843127,Science Fiction|Action|Adventure,100,en,5.178,6969
+425274,tt4712810,Now You See Me: Now You Don't,2025-11-12,90000000,243700000,Crime|Thriller,112,en,6.461,1809
+881,tt0104257,A Few Good Men,1992-12-11,40000000,243240178,Drama,138,en,7.56,4313
+22794,tt0844471,Cloudy with a Chance of Meatballs,2009-09-17,100000000,242988466,Animation|Comedy|Family,90,en,6.666,6618
+65,tt0298203,8 Mile,2002-11-08,41000000,242875078,Drama|Music,111,en,7.147,7972
+274167,tt1528854,Daddy's Home,2015-12-25,50000000,242786137,Comedy,96,en,6.295,3507
+12154,tt0094137,3 Men and a Baby,1987-11-27,11000000,242780960,Comedy,102,en,6.173,1136
+97020,tt1234721,RoboCop,2014-01-30,120000000,242688965,Action|Science Fiction|Thriller,118,en,5.89,5992
+9268,tt0116213,Eraser,1996-06-21,100000000,242295562,Action|Mystery|Thriller,115,en,6.103,2115
+1316092,tt32897959,“Wuthering Heights”,2026-02-11,80000000,241601072,Romance|Drama,136,en,6.659,1335
+1275779,tt15047880,Disclosure Day,2026-06-10,115000000,241186430,Science Fiction|Thriller,146,en,7.466,3271
+126889,tt2316204,Alien: Covenant,2017-05-09,97000000,240891763,Horror|Science Fiction,122,en,6.189,9666
+363676,tt3263904,Sully,2016-09-07,60000000,240800000,Drama|History,96,en,7.205,7871
+121856,tt2094766,Assassin's Creed,2016-12-21,125000000,240700000,Action|Adventure|Science Fiction,116,en,5.446,8247
+9339,tt0389860,Click,2006-06-23,82500000,240685326,Comedy|Drama|Fantasy,107,en,6.315,7752
+635389,tt11177804,Jiang Ziya,2020-10-01,0,240656068,Animation|Action|Fantasy|Adventure,105,zh,7.297,231
+71679,tt1855325,Resident Evil: Retribution,2012-09-12,65000000,240159255,Action|Horror|Science Fiction,95,en,5.8,4435
+1573,tt0099423,Die Hard 2,1990-07-03,70000000,240031094,Action|Thriller,124,en,6.968,6582
+1175942,tt30017619,The Bad Guys 2,2025-07-24,80000000,239676236,Family|Comedy|Crime|Adventure|Animation|Action,104,en,7.634,900
+9396,tt0092493,Crocodile Dundee II,1988-05-19,14000000,239606210,Adventure|Comedy,111,en,5.868,1269
+1228246,tt30274401,Five Nights at Freddy's 2,2025-12-03,36000000,239568877,Horror|Thriller,104,en,6.587,1172
+718930,tt12593682,Bullet Train,2022-08-03,90000000,239268602,Action|Comedy|Thriller,126,en,7.409,7897
+449924,tt2076298,Ip Man 4: The Finale,2019-12-19,52000000,239000000,Action|History|Drama,105,cn,7.267,2177
+455207,tt3104988,Crazy Rich Asians,2018-08-15,30000000,238539198,Comedy|Romance,121,en,7.04,4044
+415,tt0118688,Batman & Robin,1997-06-20,125000000,238207122,Action|Science Fiction|Adventure,125,en,4.395,5538
+38745,tt1320261,Gulliver's Travels,2010-12-23,112000000,237382724,Family|Comedy|Adventure|Fantasy,85,en,5.225,2613
+9679,tt0187078,Gone in Sixty Seconds,2000-06-09,90000000,237200000,Action|Crime|Thriller,118,en,6.474,5024
+11009,tt0076666,Saturday Night Fever,1977-12-16,3500000,237113184,Drama,118,en,6.735,2145
+82693,tt1045658,Silver Linings Playbook,2012-11-16,21000000,236412453,Drama|Comedy|Romance,122,en,7.154,12836
+584,tt0322259,2 Fast 2 Furious,2003-06-05,76000000,236350661,Action|Crime|Thriller,108,en,6.52,8361
+1022145,tt22049410,Home Coming,2022-09-30,0,236085820,Drama|War,137,zh,7.5,48
+4935,tt0347149,Howl's Moving Castle,2004-09-09,24000000,236049757,Fantasy|Animation|Adventure,119,ja,8.387,11421
+381284,tt4846340,Hidden Figures,2016-12-10,25000000,235957472,Drama|History,127,en,8.047,10652
+644,tt0212720,A.I. Artificial Intelligence,2001-06-29,100000000,235926552,Drama|Science Fiction|Adventure,146,en,7.068,6858
+207,tt0097165,Dead Poets Society,1989-06-02,16400000,235860116,Drama,129,en,8.296,12947
+238713,tt3079380,Spy,2015-05-06,65000000,235666219,Action|Comedy|Crime,120,en,6.831,6526
+2105,tt0163651,American Pie,1999-07-09,11000000,235483004,Comedy|Romance,95,en,6.617,8548
+71552,tt1605630,American Reunion,2012-04-04,50000000,234989584,Comedy,113,en,6.3,4807
+9032,tt0142342,Big Daddy,1999-06-25,34200000,234801895,Comedy|Drama,93,en,6.489,3646
+258509,tt2974918,Alvin and the Chipmunks: The Road Chip,2015-12-17,90000000,233755553,Family|Comedy|Music|Adventure|Animation,92,en,6.035,1797
+205596,tt2084970,The Imitation Game,2014-11-14,14000000,233555708,History|Drama|Thriller|War,113,en,7.98,18397
+337404,tt3228774,Cruella,2021-05-26,200000000,233503234,Comedy|Crime|Family,134,en,7.966,10290
+10200,tt0970416,The Day the Earth Stood Still,2008-12-10,80000000,233093859,Drama|Science Fiction|Thriller,104,en,5.668,3875
+65754,tt1568346,The Girl with the Dragon Tattoo,2011-12-14,90000000,232617430,Thriller|Crime|Mystery,158,en,7.388,7788
+7326,tt0467406,Juno,2007-12-05,7500000,232372681,Comedy|Drama|Romance,96,en,7.064,7807
+68734,tt1024648,Argo,2012-10-11,44500000,232300000,Drama|Thriller,120,en,7.286,9176
+1268,tt0453451,Mr. Bean's Holiday,2007-03-22,25000000,232225908,Family|Comedy,90,en,6.403,3212
+409,tt0116209,The English Patient,1996-11-14,27000000,231976425,Drama|Romance|War,162,en,7.132,2460
+1273221,tt32093575,Scary Movie,2026-06-03,30000000,231886052,Comedy,96,en,6.395,1864
+2005,tt0105417,Sister Act,1992-05-28,31000000,231605150,Music|Comedy,100,en,6.834,3528
+8273,tt0328828,American Wedding,2003-08-01,55000000,231449203,Comedy|Romance,103,en,6.2,4501
+521029,tt8350360,Annabelle Comes Home,2019-06-26,27000000,231252591,Horror,106,en,6.403,3923
+561,tt0360486,Constantine,2005-02-08,100000000,230900000,Fantasy|Action|Horror,121,en,7.206,8525
+11665,tt0425061,Get Smart,2008-06-19,80000000,230685453,Action|Comedy|Thriller,110,en,6.219,4001
+637,tt0118799,Life Is Beautiful,1997-12-20,20000000,230098753,Comedy|Drama,116,it,8.437,14227
+170882,tt0184698,The Black Hand,1973-03-16,0,230000000,Crime,90,it,4.75,4
+136795,tt2404463,The Heat,2013-06-27,43000000,229930771,Action|Comedy|Crime,117,en,6.59,4266
+43074,tt1289401,Ghostbusters,2016-07-14,144000000,229147509,Action|Fantasy|Comedy,117,en,5.343,6895
+1250,tt0259324,Ghost Rider,2007-01-15,110000000,228738393,Thriller|Action|Fantasy,114,en,5.62,6642
+362682,tt5061814,Goodbye Mr. Loser,2015-09-30,0,228549747,Romance|Comedy,104,zh,7.111,158
+10719,tt0319343,Elf,2003-11-07,32000000,228500000,Comedy|Family|Fantasy,97,en,6.668,4675
+942,tt0097733,Lethal Weapon 2,1989-07-07,25000000,227853986,Action|Thriller|Crime,114,en,7.048,3868
+40805,tt0990407,The Green Hornet,2011-01-12,120000000,227817248,Action|Crime|Comedy,119,en,5.596,3559
+858,tt0108160,Sleepless in Seattle,1993-06-24,21000000,227799884,Comedy|Drama|Romance,105,en,6.742,2683
+606,tt0089755,Out of Africa,1985-12-20,31000000,227514205,History|Romance|Drama,161,en,7.15,1579
+339403,tt3890160,Baby Driver,2017-06-28,34000000,226945087,Action|Crime,113,en,7.445,17173
+37958,tt1253864,Immortals,2011-11-10,75000000,226904017,Fantasy|Action|Drama,110,en,6.051,2895
+8681,tt0936501,Taken,2008-02-18,25000000,226830568,Action|Thriller,94,en,7.412,12375
+32657,tt0814255,Percy Jackson & the Olympians: The Lightning Thief,2010-02-01,95000000,226497209,Adventure|Fantasy|Family,118,en,6.215,7945
+718789,tt10298810,Lightyear,2022-06-15,200000000,226425420,Animation|Science Fiction|Family|Adventure,105,en,6.862,3935
+559974,tt9597838,Shock Wave 2,2020-12-24,40000000,226400000,Action|Crime|Thriller,120,cn,7.078,180
+60304,tt1428538,Hansel & Gretel: Witch Hunters,2013-01-17,50000000,226349749,Fantasy|Horror|Action,88,en,6.111,7220
+339964,tt2239822,Valerian and the City of a Thousand Planets,2017-07-19,177200000,225973340,Adventure|Science Fiction|Action,137,en,6.654,8204
+489,tt0119217,Good Will Hunting,1997-12-05,10000000,225933435,Drama,127,en,8.167,14283
+575813,tt9586294,Better Days,2019-10-25,0,225879065,Drama|Crime|Romance,135,zh,8.121,580
+359724,tt1950186,Ford v Ferrari,2019-11-13,97600000,225508210,Drama|History|Action,153,en,8.007,9277
+37799,tt1285016,The Social Network,2010-10-01,40000000,224920315,Drama,121,en,7.376,13486
+7443,tt0120630,Chicken Run,2000-06-23,45000000,224834564,Animation|Comedy|Family,84,en,6.852,5520
+457251,tt6654316,Youth,2017-12-15,0,224160000,Drama|History|War,136,zh,7.353,117
+1701,tt0118880,Con Air,1997-06-05,75000000,224012234,Action|Thriller|Crime,116,en,6.785,4854
+628,tt0110148,Interview with the Vampire,1994-11-11,60000000,223664608,Horror|Drama|Fantasy,123,en,7.4,6601
+9315,tt0408790,Flightplan,2005-09-22,55000000,223387299,Thriller|Drama|Mystery,98,en,6.444,3058
+10201,tt1068680,Yes Man,2008-12-09,70000000,223200000,Comedy|Romance,104,en,6.693,7564
+225574,tt2024469,Non-Stop,2014-02-26,50000000,222809600,Action|Thriller|Mystery,107,en,6.81,5862
+9354,tt0097523,"Honey, I Shrunk the Kids",1989-06-23,18000000,222724172,Adventure|Comedy|Family|Science Fiction,93,en,6.335,3429
+753342,tt13287846,Napoleon,2023-11-22,165000000,222435664,History|War|Drama,158,en,6.3,3258
+1777,tt0361596,Fahrenheit 9/11,2004-06-25,6000000,222400000,Documentary,123,en,7.083,1561
+8247,tt0489099,Jumper,2008-02-13,85000000,222231186,Action|Adventure|Science Fiction,88,en,6.173,6414
+8487,tt0120891,Wild Wild West,1999-06-30,170000000,222104681,Action|Adventure|Comedy|Science Fiction|Western,106,en,5.318,3684
+1078012,tt25981462,Boonie Bears: Guardian Code,2023-01-22,0,221982308,Animation|Comedy|Science Fiction|Family|Adventure,94,zh,7.0,12
+869724,tt15465312,"My Country, My Parents",2021-09-30,35000000,221831086,Drama,156,zh,5.964,28
+274855,tt1981128,Geostorm,2017-10-12,120000000,221600160,Action|Science Fiction|Thriller,109,en,6.1,5321
+11092,tt0100404,Presumed Innocent,1990-07-27,22000000,221303188,Mystery|Crime|Thriller,127,en,6.809,847
+451048,tt0870154,Jungle Cruise,2021-07-28,200000000,220889446,Fantasy|Comedy|Adventure,127,en,7.272,6300
+4256,tt0306047,Scary Movie 3,2003-10-24,45000000,220673217,Comedy,84,en,5.981,4654
+1538,tt0369339,Collateral,2004-08-04,65000000,220239925,Drama|Crime|Thriller,120,en,7.248,6477
+207932,tt3062096,Inferno,2016-10-13,75000000,220021259,Mystery|Thriller|Action,122,en,6.102,6771
+4964,tt0478311,Knocked Up,2007-06-01,30000000,219900000,Comedy|Romance|Drama,129,en,6.304,4416
+44912,tt1133985,Green Lantern,2011-06-14,200000000,219851172,Adventure|Action|Science Fiction,114,en,5.191,7815
+151960,tt1691917,Planes,2013-08-09,50000000,219788712,Animation|Family|Adventure|Comedy,91,en,5.935,1874
+594,tt0362227,The Terminal,2004-06-17,60000000,219417255,Comedy|Drama,128,en,7.356,8948
+9029,tt1033643,What Happens in Vegas,2008-05-07,35000000,219400000,Comedy|Romance,99,en,6.122,3388
+22897,tt1230414,It's Complicated,2009-12-23,85000000,219103655,Comedy|Romance,121,en,6.518,1566
+857598,tt16539454,Pushpa 2 - The Rule,2024-12-04,52900000,219000000,Action|Drama|Thriller|Crime,225,te,6.2,163
+109424,tt1535109,Captain Phillips,2013-10-10,55000000,218791811,Action|Drama|Thriller,134,en,7.538,7671
+9837,tt0120794,The Prince of Egypt,1998-12-16,70000000,218613188,Adventure|Animation|Drama|Family,99,en,7.324,4426
+1495,tt0320661,Kingdom of Heaven,2005-05-03,130000000,218366336,Drama|Action|Adventure|History|War,144,en,7.086,5216
+75780,tt0790724,Jack Reacher,2012-12-20,60000000,218300000,Crime|Drama|Thriller|Action,130,en,6.678,7850
+882598,tt15474916,Smile,2022-09-23,17000000,217408513,Horror|Mystery,115,en,6.671,4243
+49017,tt0829150,Dracula Untold,2014-10-01,70000000,217124280,Horror|Action|Fantasy,92,en,6.468,6620
+302699,tt1489889,Central Intelligence,2016-06-15,50000000,216972543,Action|Comedy,107,en,6.416,6478
+70,tt0405159,Million Dollar Baby,2004-12-05,30000000,216763646,Drama,132,en,7.953,10572
+9493,tt0096320,Twins,1988-12-09,15000000,216614388,Comedy,107,en,6.056,2609
+50014,tt1454029,The Help,2011-08-09,25000000,216600000,Drama,146,en,8.205,9264
+32856,tt0817230,Valentine's Day,2010-02-10,52000000,216528528,Comedy|Romance,125,en,5.929,3211
+8536,tt0081573,Superman II,1980-12-04,54000000,216385706,Science Fiction|Action|Adventure,127,en,6.759,2608
+52449,tt1284575,Bad Teacher,2011-05-16,20000000,216197492,Comedy,92,en,5.613,5034
+716815,tt12497408,A Little Red Flower,2020-12-31,0,216000000,Drama,128,zh,6.5,48
+529203,tt2850386,The Croods: A New Age,2020-11-25,65000000,215905815,Animation|Family|Adventure|Fantasy|Comedy,95,en,7.44,4234
+9331,tt0109444,Clear and Present Danger,1994-08-03,62000000,215887717,Action|Drama|Thriller,141,en,6.649,1746
+214756,tt2637276,Ted 2,2015-06-25,68000000,215863606,Comedy|Fantasy,115,en,6.325,8155
+6114,tt0103874,Bram Stoker's Dracula,1992-11-13,40000000,215862692,Romance|Horror,128,en,7.448,5916
+11678,tt0190865,Vertical Limit,2000-12-08,75000000,215663859,Adventure|Action|Thriller,124,en,6.023,1204
+170657,tt2017561,Journey to the West: Conquering the Demons,2013-02-07,0,215637183,Action|Fantasy|Adventure|Comedy,110,zh,6.962,462
+2978,tt0097428,Ghostbusters II,1989-06-16,37000000,215394738,Comedy|Fantasy,108,en,6.604,4983
+1304434,tt36733027,Nobody,2025-08-02,0,215367669,Animation|Adventure|Fantasy|Comedy,118,zh,7.864,88
+27022,tt0963966,The Sorcerer's Apprentice,2010-07-13,150000000,215300000,Fantasy|Adventure|Action,109,en,6.145,5376
+2024,tt0187393,The Patriot,2000-06-28,110000000,215294342,Drama|History|War|Action,165,en,7.209,4476
+50546,tt1564367,Just Go with It,2011-02-10,80000000,214945591,Comedy|Romance,117,en,6.7,6231
+1072790,tt26047818,Anyone but You,2023-12-21,25000000,214891370,Romance|Comedy,103,en,6.754,3216
+138103,tt2333784,The Expendables 3,2014-08-07,95000000,214657577,Action|Adventure|Thriller,126,en,6.201,5448
+88,tt0092890,Dirty Dancing,1987-08-21,6000000,214577242,Drama|Music|Romance,100,en,7.32,6656
+480530,tt6343314,Creed II,2018-11-21,50000000,214200000,Drama|Action,130,en,7.034,5917
+446894,tt6182908,Smallfoot,2018-09-20,80000000,214115531,Family|Comedy|Adventure|Animation|Fantasy,96,en,6.814,1657
+11322,tt1152836,Public Enemies,2009-07-01,100000000,214104620,Crime|History|Drama,140,en,6.688,4955
+2501,tt0258463,The Bourne Identity,2002-06-14,60000000,214034224,Action|Mystery|Thriller,119,en,7.486,10373
+8984,tt0109635,Disclosure,1994-12-09,55000000,214015089,Thriller|Drama|Crime,128,en,6.2,1306
+146,tt0190332,"Crouching Tiger, Hidden Dragon",2000-07-06,17000000,213978518,Adventure|Drama|Action|Romance|Fantasy,120,zh,7.438,3692
+680,tt0110912,Pulp Fiction,1994-09-10,8000000,213928762,Thriller|Crime|Comedy,154,en,8.48,30844
+1159559,tt27047903,Scream 7,2026-02-25,45000000,213835967,Horror|Mystery|Crime,114,en,6.236,1267
+2567,tt0338751,The Aviator,2004-12-17,110000000,213719942,Drama,170,en,7.217,5994
+197,tt0112573,Braveheart,1995-05-24,72000000,213216216,Action|Drama|History|War,178,en,7.943,11414
+224141,tt2180411,Into the Woods,2014-12-24,50000000,212902372,Fantasy|Comedy,125,en,5.758,4468
+10202,tt0960731,Bedtime Stories,2008-12-24,80000000,212874864,Fantasy|Comedy|Family|Romance,99,en,6.153,3033
+1844,tt0137494,Entrapment,1999-04-29,66000000,212404400,Romance|Drama|Mystery,112,en,6.235,2300
+9273,tt0112281,Ace Ventura: When Nature Calls,1995-11-10,30000000,212385533,Crime|Comedy|Adventure,90,en,6.345,4695
+9946,tt0146675,End of Days,1999-11-24,100000000,212000000,Action|Horror|Fantasy,122,en,6.101,2136
+1493,tt0212346,Miss Congeniality,2000-12-22,45000000,212000000,Comedy|Crime|Action,110,en,6.535,4329
+95610,tt1473832,Bridget Jones's Baby,2016-09-14,35000000,211952420,Drama|Comedy|Romance,123,en,6.405,3121
+228150,tt2713180,Fury,2014-10-15,68000000,211817906,War|Drama|Action,135,en,7.546,13217
+44943,tt1217613,Battle: Los Angeles,2011-03-08,70000000,211800000,Science Fiction|Action,116,en,5.828,3842
+41733,tt1231583,Due Date,2010-11-03,65000000,211800000,Comedy|Drama,95,en,6.392,5964
+6972,tt0455824,Australia,2008-11-18,130000000,211787511,Adventure|Romance|Drama,165,en,6.6,2496
+8619,tt0311113,Master and Commander: The Far Side of the World,2003-11-14,150000000,211623421,Adventure|Drama|War,138,en,7.204,3655
+10144,tt0097757,The Little Mermaid,1989-11-17,40000000,211343479,Animation|Family|Fantasy,83,en,7.353,8557
+803266,tt15783462,Nice View,2022-02-01,0,211018982,Drama|Family|Comedy,106,zh,6.4,49
+516729,tt5822536,Paddington in Peru,2024-11-08,90000000,211000000,Adventure|Comedy|Family,106,en,6.8,748
+17654,tt1136608,District 9,2009-08-05,30000000,210888950,Science Fiction,112,en,7.48,10631
+698,tt0079574,Moonraker,1979-06-26,34000000,210308099,Action|Adventure|Thriller|Science Fiction,126,en,6.187,2289
+901362,tt14362112,Trolls Band Together,2023-10-12,95000000,210231405,Animation|Family|Music|Fantasy|Comedy|Adventure,91,en,7.2,1029
+1933,tt0230600,The Others,2001-08-02,17000000,210002906,Horror|Mystery|Thriller,101,en,7.618,7397
+51540,tt1499658,Horrible Bosses,2011-07-08,35000000,209838559,Comedy|Crime,98,en,6.6,6957
+1054867,tt30144839,One Battle After Another,2025-09-23,175000000,209377100,Thriller|Crime|Comedy,162,en,7.334,4226
+508747,tt8033592,Us and Them,2018-04-28,0,209221331,Drama|Romance,120,zh,7.5,177
+158852,tt1964418,Tomorrowland,2015-05-19,190000000,209200000,Adventure|Family|Mystery|Science Fiction,130,en,6.31,7496
+9533,tt0289765,Red Dragon,2002-10-02,78000000,209196298,Crime|Thriller|Horror,124,en,7.047,4850
+11774,tt0339291,Lemony Snicket's A Series of Unfortunate Events,2004-12-16,140000000,209073645,Adventure|Comedy|Family,108,en,6.819,5388
+1633056,tt43515101,All Wishes Come True!,2026-07-10,0,208328000,Comedy|Animation|Fantasy|Adventure,143,zh,7.885,26
+493529,tt2906216,Dungeons & Dragons: Honor Among Thieves,2023-03-23,151000000,208200000,Adventure|Fantasy|Comedy,134,en,7.357,4909
+59961,tt1599348,Safe House,2012-02-08,85000000,208076205,Action|Thriller,115,en,6.491,4020
+151743,tt2459022,Lost in Thailand,2012-12-12,2200000,208000000,Comedy|Adventure|Drama,105,zh,6.4,140
+296096,tt2674426,Me Before You,2016-06-01,20000000,207945075,Drama|Romance,110,en,7.931,13556
+9257,tt0257076,S.W.A.T.,2003-08-08,80000000,207700000,Action|Thriller|Crime,117,en,6.161,2783
+889737,tt11315808,Joker: Folie à Deux,2024-10-01,190000000,207500287,Drama|Crime|Thriller,138,en,5.403,3059
+1900,tt0181865,Traffic,2000-12-27,48000000,207500000,Thriller|Drama|Crime,147,en,7.088,2496
+9799,tt0232500,The Fast and the Furious,2001-06-22,38000000,207283925,Action|Crime|Thriller,106,en,7.015,11112
+72571,tt1778304,Paranormal Activity 3,2011-10-19,5000000,207039844,Horror|Mystery,83,en,5.925,2429
+9800,tt0107818,Philadelphia,1993-12-22,26000000,206678440,Drama,126,en,7.704,4753
+423108,tt7069210,The Conjuring: The Devil Made Me Do It,2021-05-25,39000000,206444123,Horror|Mystery|Thriller,111,en,7.338,6697
+609681,tt10676048,The Marvels,2023-11-08,274800000,206136825,Science Fiction|Adventure|Action,105,en,5.912,3629
+2668,tt0162661,Sleepy Hollow,1999-11-19,100000000,206071526,Fantasy|Thriller|Mystery|Horror,105,en,7.2,7560
+267860,tt3300542,London Has Fallen,2016-03-02,60000000,205754447,Action|Adventure|Thriller,99,en,6.228,5207
+9767,tt0452594,The Break-Up,2006-06-01,52000000,205700000,Romance|Comedy,106,en,5.903,2900
+447273,tt6208148,Snow White,2025-03-19,271600000,205679463,Family|Fantasy,109,en,4.268,1729
+495764,tt7713068,Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),2020-02-05,75000000,205537933,Action|Crime,109,en,6.867,10984
+820,tt0102138,JFK,1991-12-20,40000000,205405498,Drama|Thriller|History,189,en,7.591,2490
+117251,tt2334879,White House Down,2013-06-27,150000000,205366737,Action|Drama|Thriller,131,en,6.467,5221
+1581,tt0457939,The Holiday,2006-12-05,85000000,205233866,Comedy|Romance,136,en,7.1,5742
+513692,tt8165192,Raging Fire,2021-07-28,0,205000000,Action|Crime|Thriller|Adventure|Mystery,125,cn,7.156,315
+381289,tt1753383,A Dog's Purpose,2017-01-19,22000000,205000000,Adventure|Fantasy|Family|Drama,100,en,7.638,3589
+38167,tt0879870,Eat Pray Love,2010-08-12,60000000,204594016,Drama|Romance,133,en,6.245,2684
+425909,tt4513678,Ghostbusters: Afterlife,2021-11-18,75000000,204445747,Fantasy|Comedy|Adventure,124,en,7.305,5322
+481084,tt1620981,The Addams Family,2019-10-10,40000000,204394183,Family|Animation|Comedy|Fantasy,87,en,6.6,2534
+10661,tt0960144,You Don't Mess with the Zohan,2008-06-05,90000000,204313400,Comedy|Action,113,en,5.7,4168
+9477,tt0349683,King Arthur,2004-07-07,120000000,203567857,Adventure|War|History|Action|Drama,126,en,6.306,3004
+41515,tt1302067,Yogi Bear,2010-12-17,80000000,203509374,Comedy|Family|Animation|Adventure,80,en,5.563,961
+253412,tt2719848,Everest,2015-09-10,55000000,203427584,Adventure|Drama|History,121,en,6.828,5345
+1903,tt0259711,Vanilla Sky,2001-12-14,68000000,203388341,Mystery|Romance|Science Fiction,136,en,6.831,4833
+329865,tt2543164,Arrival,2016-11-10,47000000,203388186,Drama|Science Fiction|Mystery,116,en,7.634,19845
+1305781,tt32649961,Blades of the Guardians,2026-02-17,123000000,203356793,Action|Adventure|Drama|Western,126,zh,8.2,227
+136797,tt2369135,Need for Speed,2014-03-12,66000000,203277636,Action|Crime|Drama|Thriller,132,en,6.451,4814
+539681,tt8912936,DC League of Super-Pets,2022-07-27,90000000,203000000,Family|Comedy|Adventure|Animation|Science Fiction|Action,105,en,7.14,1778
+12429,tt0876563,Ponyo,2008-07-19,34000000,202404009,Animation|Fantasy|Family,100,ja,7.762,4966
+10312,tt0129290,Patch Adams,1998-12-25,50000000,202292902,Comedy|Drama,115,en,7.313,3520
+893723,tt15837338,PAW Patrol: The Mighty Movie,2023-09-21,30000000,202231360,Adventure|Animation|Comedy|Family|Science Fiction,88,en,6.927,592
+7552,tt0369441,Fun with Dick and Jane,2005-12-21,100000000,202026112,Comedy|Crime,90,en,6.233,2750
+967847,tt21235248,Ghostbusters: Frozen Empire,2024-03-20,100000000,201967521,Fantasy|Adventure|Comedy,115,en,6.436,2286
+1498,tt0100758,Teenage Mutant Ninja Turtles,1990-03-30,13500000,201965915,Science Fiction|Action|Adventure|Comedy|Family,93,en,6.708,2019
+951,tt0099938,Kindergarten Cop,1990-12-21,15000000,201957688,Comedy,111,en,6.137,2896
+277216,tt1398426,Straight Outta Compton,2015-08-11,28000000,201634991,Drama|Music|History,147,en,7.769,4291
+64688,tt1232829,21 Jump Street,2012-03-14,42000000,201585328,Action|Comedy|Crime,109,en,6.884,11251

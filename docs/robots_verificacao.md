@@ -30,7 +30,7 @@ As [Conditions of Use](https://www.imdb.com/conditions/) reforçam a proibição
 - Bloqueios pontuais: listagens/filtros (`/*/genre/*`, `/*/country/*`, `/films/year/*`, `/*/by/*`, `/*/friends/*`, etc.) e bloqueio total para bots de IA nomeados (GPTBot, ClaudeBot, …).
 - A URL `https://letterboxd.com/tmdb/{tmdb_id}/` **não** está nos `Disallow` listados.
 
-**Decisão:** usar Letterboxd como fonte de **web scraping HTML**, com User-Agent identificável, `time.sleep(2)` entre requisições e volume limitado (~400 filmes), para uso acadêmico.
+**Decisão:** usar Letterboxd como fonte de **web scraping HTML**, com User-Agent identificável, `time.sleep(2)` entre requisições e volume limitado (~1000 filmes), para uso acadêmico.
 
 ## Resumo
 

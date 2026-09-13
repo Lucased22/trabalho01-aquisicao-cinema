@@ -53,10 +53,23 @@ python -c "import os,requests; from dotenv import load_dotenv; load_dotenv(); r=
 ## Estrutura
 
 - `dados_brutos/` — CSVs crus (inalterados após a coleta)
-- `dados_tratados/` — base integrada limpa (Parquet)
-- `docs/` — proveniência, Dataset Card, verificação robots
-- `coleta_cinema.ipynb` — notebook reprodutível
+- `dados_tratados/` — base integrada limpa (Parquet + CSV)
+- `docs/` — `dataset_card.md`, `proveniencia.jsonl`, `robots_verificacao.md`
+- `coleta_cinema.ipynb` — notebook reprodutível (API + scraping + join)
 
-## Entrega
+## Entrega (ColabWeb)
 
-Pacote `trabalho01/` (sem `.venv`; preferencialmente sem `.env`) no ColabWeb. Prazo: 10/09/2026.
+Prazo do enunciado: **10/09/2026**.
+
+Checklist:
+
+| Artefato | Caminho |
+|----------|---------|
+| Notebook | `coleta_cinema.ipynb` |
+| Brutos | `dados_brutos/tmdb_raw.csv`, `omdb_raw.csv`, `letterboxd_raw.csv` |
+| Base tratada | `dados_tratados/base_tratada.parquet` |
+| Proveniência | `docs/proveniencia.jsonl` |
+| Dataset Card | `docs/dataset_card.md` |
+| robots | `docs/robots_verificacao.md` |
+
+Compactar `trabalho01/` **sem** `.venv` e **sem** `.env` (usar `.env.example`).

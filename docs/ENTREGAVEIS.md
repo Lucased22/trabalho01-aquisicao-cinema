@@ -5,11 +5,10 @@ Para visão geral do projeto e setup técnico, use o [README do repositório](..
 A ficha formal da base (Apêndice A) está em [`dataset_card.md`](dataset_card.md).
 
 **Disciplina:** Ciência de Dados — UFAM  
-**Prazo:** 16/09/2026 *(adiado oficialmente; enunciado original: 10/09/26)*  
 **Forma de entrega:** ColabWeb (pacote único: repositório ou zip)  
 **Repo:** https://github.com/Lucased22/trabalho01-aquisicao-cinema  
 
-**Grupo (3–4 integrantes):**
+**Grupo:**
 
 | Nome | Matrícula |
 |------|-----------|

@@ -8,7 +8,7 @@ Checklist dos entregáveis: [`ENTREGAVEIS.md`](ENTREGAVEIS.md) · Setup do repo:
 | Campo | Conteúdo |
 |-------|----------|
 | **Nome da base** | `cinema_orcamento_recepcao` |
-| **Grupo / integrantes** | Lucas Eduardo *(completar demais integrantes do grupo antes da entrega no ColabWeb)* |
+| **Grupo / integrantes** | Lucas Eduardo Siqueira dos Santos (22251137); Luna Veiga Horta Braga (22551154); Samuel Davi Silva de Lima Chagas (22352935); Karen Juliana Báez González (22551695) |
 | **Tema e pergunta motivadora** | Impacto do orçamento e do faturamento de filmes na recepção de crítica e público. **Pergunta:** existe correlação positiva entre alto orçamento e aclamação (público/crítica), ou grandes investimentos impactam sobretudo a bilheteria? |
 | **Data da coleta** | 12/09/2026 a 13/09/2026 (UTC); integração em 13/09/2026 |
 

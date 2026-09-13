@@ -5,9 +5,18 @@ Para visão geral do projeto e setup técnico, use o [README do repositório](..
 A ficha formal da base (Apêndice A) está em [`dataset_card.md`](dataset_card.md).
 
 **Disciplina:** Ciência de Dados — UFAM  
-**Prazo:** 10/09/2026  
+**Prazo:** 16/09/2026 *(adiado oficialmente; enunciado original: 10/09/26)*  
 **Forma de entrega:** ColabWeb (pacote único: repositório ou zip)  
-**Repo:** https://github.com/Lucased22/trabalho01-aquisicao-cinema
+**Repo:** https://github.com/Lucased22/trabalho01-aquisicao-cinema  
+
+**Grupo (3–4 integrantes):**
+
+| Nome | Matrícula |
+|------|-----------|
+| Lucas Eduardo Siqueira dos Santos | 22251137 |
+| Luna Veiga Horta Braga | 22551154 |
+| Samuel Davi Silva de Lima Chagas | 22352935 |
+| Karen Juliana Báez González | 22551695 |
 
 ---
 
@@ -38,8 +47,8 @@ Marque antes de enviar:
 - [x] Dataset Card — `docs/dataset_card.md`
 - [x] Verificação robots / ética — `docs/robots_verificacao.md`
 - [x] Dependências e exemplo de env — `requirements.txt`, `.env.example`
-- [ ] Completar **todos os nomes do grupo** em `docs/dataset_card.md` § A.1
-- [ ] Zip **sem** `.venv` e **sem** `.env`
+- [x] Nomes e matrículas do grupo em `docs/dataset_card.md` § A.1
+- [ ] Zip **sem** `.venv` e **sem** `.env` (regenerar se a documentação mudar)
 
 Zip de referência gerado localmente: `../trabalho01_colabweb.zip` (pasta pai `CD/`).
 
@@ -115,7 +124,7 @@ Registro da verificação e da decisão de arquitetura (IMDb → OMDb API; Lette
 
 ## 4. Como empacotar para o ColabWeb
 
-1. Confirme o checklist da seção 2 (nomes do grupo no card).
+1. Confirme o checklist da seção 2.
 2. Compacte a pasta do projeto **excluindo**:
    - `.venv/`
    - `.env` (envie só `.env.example`)

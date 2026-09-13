@@ -4,6 +4,10 @@ Trabalho 1 da disciplina de **Ciência de Dados (UFAM)**: construção de uma ba
 
 **Pergunta motivadora:** orçamento alto correlaciona com aclamação (público/crítica), ou o investimento impacta sobretudo a bilheteria?
 
+**Prazo de entrega (ColabWeb):** 16/09/2026 (adiado oficialmente).
+
+**Grupo:** Lucas Eduardo Siqueira dos Santos (22251137) · Luna Veiga Horta Braga (22551154) · Samuel Davi Silva de Lima Chagas (22352935) · Karen Juliana Báez González (22551695)
+
 > Pacote acadêmico para o ColabWeb: veja a [documentação dos entregáveis](docs/ENTREGAVEIS.md).
 
 ## Fontes

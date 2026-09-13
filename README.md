@@ -1,75 +1,94 @@
-# Trabalho 1 — Aquisição de Dados (Cinema)
+# Aquisição de Dados — Cinema (orçamento, bilheteria e recepção)
 
-Repositório: https://github.com/Lucased22/trabalho01-aquisicao-cinema
+Trabalho 1 da disciplina de **Ciência de Dados (UFAM)**: construção de uma base própria a partir de **API** e **web scraping**, com integração por chaves estáveis, preservação do bruto e documentação completa.
 
-Projeto da disciplina de Ciência de Dados (UFAM): coleta, integração e documentação de uma base sobre orçamento/faturamento de filmes e recepção de crítica/público.
+**Pergunta motivadora:** orçamento alto correlaciona com aclamação (público/crítica), ou o investimento impacta sobretudo a bilheteria?
+
+> Pacote acadêmico para o ColabWeb: veja a [documentação dos entregáveis](docs/ENTREGAVEIS.md).
 
 ## Fontes
 
-| Fonte | Método | Chave de integração |
-|-------|--------|---------------------|
-| TMDB | API | gera `tmdb_id`, `imdb_id` |
-| OMDb | API | consome `imdb_id` (notas IMDb / Metascore) |
-| Letterboxd | Web scraping | consome `tmdb_id` |
+| Fonte | Método | Papel | Chave |
+|-------|--------|-------|-------|
+| [TMDB](https://www.themoviedb.org) | API | Orçamento, faturamento, metadados; gera IDs | gera `tmdb_id`, `imdb_id` |
+| [OMDb](https://www.omdbapi.com) | API | Nota IMDb + Metascore | consome `imdb_id` |
+| [Letterboxd](https://letterboxd.com) | Scraping HTML | Rating e contagem de votos | consome `tmdb_id` |
 
-O scraping HTML do IMDb **não** é usado: o `robots.txt` do IMDb (`User-agent: *` → `Disallow: /`) e os termos de uso proíbem coleta automatizada. Detalhes em `docs/robots_verificacao.md`.
+Scraping HTML do **IMDb** não é usado: `robots.txt` com `User-agent: *` → `Disallow: /` e termos que proíbem coleta automatizada. Detalhes em [`docs/robots_verificacao.md`](docs/robots_verificacao.md).
 
-## Setup
+```text
+TMDB (API) ──► tmdb_raw.csv ──┐
+                              ├── left join (imdb_id / tmdb_id) ──► base_tratada.parquet
+OMDb (API) ──► omdb_raw.csv ──┤
+Letterboxd ──► letterboxd_raw.csv ─┘
+```
+
+## Resultado da coleta
+
+| Artefato | Volume |
+|----------|--------|
+| `dados_brutos/tmdb_raw.csv` | 1000 filmes (`revenue.desc`, páginas 1–50) |
+| `dados_brutos/omdb_raw.csv` | 991 linhas |
+| `dados_brutos/letterboxd_raw.csv` | 1000 linhas (989 com rating) |
+| `dados_tratados/base_tratada.parquet` | 1000 × 23 (OMDb 991 matched; Letterboxd 1000) |
+
+## Estrutura do repositório
+
+```text
+trabalho01/
+├── coleta_cinema.ipynb          # coleta + join + limpeza
+├── scripts_coleta_letterboxd.py # helper opcional do scrape
+├── requirements.txt
+├── .env.example                 # chaves (nunca commitar .env)
+├── dados_brutos/                # CSVs crus, inalterados
+├── dados_tratados/              # base integrada (Parquet + CSV)
+└── docs/
+    ├── ENTREGAVEIS.md           # documentação dos entregáveis
+    ├── dataset_card.md          # Apêndice A
+    ├── proveniencia.jsonl       # log URL / timestamp / status
+    └── robots_verificacao.md
+```
+
+## Setup rápido
 
 ```powershell
-cd trabalho01
+git clone https://github.com/Lucased22/trabalho01-aquisicao-cinema.git
+cd trabalho01-aquisicao-cinema
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 copy .env.example .env
 ```
 
-Preencha `TMDB_API_KEY` e `OMDB_API_KEY` em `.env` (veja abaixo).
+Preencha `TMDB_API_KEY` e `OMDB_API_KEY` no `.env`, depois:
 
 ```powershell
 jupyter notebook coleta_cinema.ipynb
 ```
 
-## Como obter as API keys
+Os CSVs brutos e o Parquet já estão no repositório. Reexecutar a coleta refaz as requisições (Letterboxd ~52 min com `sleep(2)`).
 
-### TMDB
+### API keys
 
-1. Conta em https://www.themoviedb.org/signup (confirmar e-mail).
-2. Conta → **Settings** → **API** → Request an API Key → **Developer**.
-3. Aceitar termos e enviar o formulário (uso educacional).
-4. Copiar a **API Key (v3)** para `.env` como `TMDB_API_KEY`.
+**TMDB:** [signup](https://www.themoviedb.org/signup) → Settings → API → Developer → copiar API Key (v3).
 
-Teste:
+**OMDb:** [apikey.aspx](https://www.omdbapi.com/apikey.aspx) → plano FREE → confirmar e-mail.
+
+Teste TMDB:
 
 ```powershell
 python -c "import os,requests; from dotenv import load_dotenv; load_dotenv(); r=requests.get('https://api.themoviedb.org/3/movie/550', params={'api_key': os.getenv('TMDB_API_KEY')}); print(r.status_code, r.json().get('title'))"
 ```
 
-### OMDb
+## Documentação
 
-1. https://www.omdbapi.com/apikey.aspx → plano **FREE**.
-2. Confirmar e-mail e copiar a chave para `.env` como `OMDB_API_KEY`.
+| Documento | Conteúdo |
+|-----------|----------|
+| [`docs/ENTREGAVEIS.md`](docs/ENTREGAVEIS.md) | Checklist do enunciado, o que cada arquivo entrega, como empacotar no ColabWeb |
+| [`docs/dataset_card.md`](docs/dataset_card.md) | Dataset Card (Apêndice A) |
+| [`docs/proveniencia.jsonl`](docs/proveniencia.jsonl) | Proveniência da coleta |
+| [`docs/robots_verificacao.md`](docs/robots_verificacao.md) | Decisão ética IMDb vs Letterboxd |
 
-## Estrutura
+## Licença e uso
 
-- `dados_brutos/` — CSVs crus (inalterados após a coleta)
-- `dados_tratados/` — base integrada limpa (Parquet + CSV)
-- `docs/` — `dataset_card.md`, `proveniencia.jsonl`, `robots_verificacao.md`
-- `coleta_cinema.ipynb` — notebook reprodutível (API + scraping + join)
-
-## Entrega (ColabWeb)
-
-Prazo do enunciado: **10/09/2026**.
-
-Checklist:
-
-| Artefato | Caminho |
-|----------|---------|
-| Notebook | `coleta_cinema.ipynb` |
-| Brutos | `dados_brutos/tmdb_raw.csv`, `omdb_raw.csv`, `letterboxd_raw.csv` |
-| Base tratada | `dados_tratados/base_tratada.parquet` |
-| Proveniência | `docs/proveniencia.jsonl` |
-| Dataset Card | `docs/dataset_card.md` |
-| robots | `docs/robots_verificacao.md` |
-
-Compactar `trabalho01/` **sem** `.venv` e **sem** `.env` (usar `.env.example`).
+Uso acadêmico. Respeitar termos da TMDB, OMDb e Letterboxd. Não commitar `.env`. Redistribuição comercial dos dados rasgados/agregados não é o objetivo deste repositório.

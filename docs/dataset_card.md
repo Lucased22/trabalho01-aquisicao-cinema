@@ -1,6 +1,7 @@
 # Dataset Card — Cinema: orçamento, bilheteria e recepção
 
-Modelo conforme **Apêndice A** do enunciado (Trabalho 1 — Aquisição de Dados).
+Modelo conforme **Apêndice A** do enunciado (Trabalho 1 — Aquisição de Dados).  
+Checklist dos entregáveis: [`ENTREGAVEIS.md`](ENTREGAVEIS.md) · Setup do repo: [`../README.md`](../README.md).
 
 ## A.1 Identificação
 

@@ -47,9 +47,7 @@ Marque antes de enviar:
 - [x] Verificação robots / ética — `docs/robots_verificacao.md`
 - [x] Dependências e exemplo de env — `requirements.txt`, `.env.example`
 - [x] Nomes e matrículas do grupo em `docs/dataset_card.md` § A.1
-- [ ] Zip **sem** `.venv` e **sem** `.env` (regenerar se a documentação mudar)
-
-Zip de referência gerado localmente: `../trabalho01_colabweb.zip` (pasta pai `CD/`).
+- [ ] Zip **sem** `.venv` e **sem** `.env` (gerar antes do envio — ver seção 4)
 
 ---
 
@@ -130,11 +128,10 @@ Registro da verificação e da decisão de arquitetura (IMDb → OMDb API; Lette
    - opcional: `.git/` (se o professor pedir só o zip de arquivos)
 3. Envie o zip (ou o link do repositório, se aceito) no **ColabWeb**.
 
-Exemplo (PowerShell, a partir da pasta pai):
+Como `.venv/` e `.env` já estão no `.gitignore` (nunca foram commitados), `git archive` gera o zip certo sem exclusão manual:
 
 ```powershell
-# Preferir o zip já gerado: trabalho01_colabweb.zip
-# Ou regenerar sem .venv / .env / .git
+git archive --format=zip --output=../trabalho01_colabweb.zip HEAD
 ```
 
 ---
@@ -145,20 +142,4 @@ Exemplo (PowerShell, a partir da pasta pai):
 - Escalas de nota diferentes (IMDb/TMDB ≈ 0–10; Letterboxd ≈ 0–5; Metascore 0–100).
 - Brutos preservados; qualquer reexecução da coleta pode alterar valores se as fontes mudarem online.
 
----
-
-## 6. Mapa rápido de pastas no pacote
-
-```text
-coleta_cinema.ipynb
-requirements.txt
-.env.example
-dados_brutos/          ← brutos
-dados_tratados/        ← base final
-docs/
-  ENTREGAVEIS.md       ← este arquivo
-  dataset_card.md
-  proveniencia.jsonl
-  robots_verificacao.md
-README.md              ← visão GitHub / setup
-```
+Mapa de pastas do pacote: ver [Estrutura do repositório](../README.md#estrutura-do-repositório) no README.

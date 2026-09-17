@@ -25,15 +25,6 @@ OMDb (API) ──► omdb_raw.csv ──┤
 Letterboxd ──► letterboxd_raw.csv ─┘
 ```
 
-## Resultado da coleta
-
-| Artefato | Volume |
-|----------|--------|
-| `dados_brutos/tmdb_raw.csv` | 1000 filmes (`revenue.desc`, páginas 1–50) |
-| `dados_brutos/omdb_raw.csv` | 991 linhas |
-| `dados_brutos/letterboxd_raw.csv` | 1000 linhas (989 com rating) |
-| `dados_tratados/base_tratada.parquet` | 1000 × 23 (OMDb 991 matched; Letterboxd 1000) |
-
 ## Estrutura do repositório
 
 ```text
@@ -68,19 +59,7 @@ Preencha `TMDB_API_KEY` e `OMDB_API_KEY` no `.env`, depois:
 jupyter notebook coleta_cinema.ipynb
 ```
 
-Os CSVs brutos e o Parquet já estão no repositório. Reexecutar a coleta refaz as requisições (Letterboxd ~52 min com `sleep(2)`).
-
-### API keys
-
-**TMDB:** [signup](https://www.themoviedb.org/signup) → Settings → API → Developer → copiar API Key (v3).
-
-**OMDb:** [apikey.aspx](https://www.omdbapi.com/apikey.aspx) → plano FREE → confirmar e-mail.
-
-Teste TMDB:
-
-```powershell
-python -c "import os,requests; from dotenv import load_dotenv; load_dotenv(); r=requests.get('https://api.themoviedb.org/3/movie/550', params={'api_key': os.getenv('TMDB_API_KEY')}); print(r.status_code, r.json().get('title'))"
-```
+Os CSVs brutos e o Parquet já estão no repositório — as chaves só são necessárias para reexecutar a coleta (Letterboxd ~52 min com `sleep(2)`).
 
 ## Documentação
 

@@ -1,13 +1,17 @@
-# Aquisição de Dados — Cinema (orçamento, bilheteria e recepção)
+# Aquisição de Dados sobre Cinema: orçamento, bilheteria e recepção
 
-Trabalho 1 da disciplina de **Ciência de Dados (UFAM)**: construção de uma base própria a partir de **API** e **web scraping**, com integração por chaves estáveis, preservação do bruto e documentação completa.
+Trabalho 1 da disciplina de **Ciência de Dados**, que consiste na construção de uma base com **1.000 filmes**, integrando informações de orçamento, bilheteria e recepção do público e da crítica a partir do **TMDB**, **OMDb** e **Letterboxd**.
 
-**Pergunta motivadora:** orçamento alto correlaciona com aclamação (público/crítica), ou o investimento impacta sobretudo a bilheteria?
+**Slides da apresentação:** [link do Canva](COLE-O-LINK-AQUI)
 
-**Grupo:** Lucas Eduardo Siqueira dos Santos (22251137) · Luna Veiga Horta Braga (22551154) · Samuel Davi Silva de Lima Chagas (22352935) · Karen Juliana Báez González (22551695)
+**Pergunta motivadora:** Existe correlação positiva entre orçamento alto e aclamação (público/crítica), ou o investimento impacta sobretudo a bilheteria?
 
-> Pacote acadêmico para o ColabWeb: veja a [documentação dos entregáveis](docs/ENTREGAVEIS.md).
-
+**Grupo:**
+- Karen Juliana Báez González (22551695)
+- Lucas Eduardo Siqueira dos Santos (22251137)
+- Luna Veiga Horta Braga (22551154)
+- Samuel Davi Silva de Lima Chagas (22352935)
+  
 ## Fontes
 
 | Fonte | Método | Papel | Chave |
@@ -25,7 +29,7 @@ OMDb (API) ──► omdb_raw.csv ──┤
 Letterboxd ──► letterboxd_raw.csv ─┘
 ```
 
-## Estrutura do repositório
+## Estrutura do Repositório
 
 ```text
 trabalho01/
@@ -36,13 +40,12 @@ trabalho01/
 ├── dados_brutos/                # CSVs crus, inalterados
 ├── dados_tratados/              # base integrada (Parquet + CSV)
 └── docs/
-    ├── ENTREGAVEIS.md           # documentação dos entregáveis
     ├── dataset_card.md          # Apêndice A
     ├── proveniencia.jsonl       # log URL / timestamp / status
     └── robots_verificacao.md
 ```
 
-## Setup rápido
+## Setup Rápido
 
 ```powershell
 git clone https://github.com/Lucased22/trabalho01-aquisicao-cinema.git
@@ -65,11 +68,16 @@ Os CSVs brutos e o Parquet já estão no repositório — as chaves só são nec
 
 | Documento | Conteúdo |
 |-----------|----------|
-| [`docs/ENTREGAVEIS.md`](docs/ENTREGAVEIS.md) | Checklist do enunciado, o que cada arquivo entrega, como empacotar no ColabWeb |
 | [`docs/dataset_card.md`](docs/dataset_card.md) | Dataset Card (Apêndice A) |
 | [`docs/proveniencia.jsonl`](docs/proveniencia.jsonl) | Proveniência da coleta |
 | [`docs/robots_verificacao.md`](docs/robots_verificacao.md) | Decisão ética IMDb vs Letterboxd |
 
-## Licença e uso
+## Licença e Uso
 
-Uso acadêmico. Respeitar termos da TMDB, OMDb e Letterboxd. Não commitar `.env`. Redistribuição comercial dos dados rasgados/agregados não é o objetivo deste repositório.
+Este repositório foi desenvolvido para **fins exclusivamente acadêmicos**, no contexto da disciplina de Ciência de Dados da **UFAM**.
+
+Os dados utilizados são provenientes do **TMDB**, **OMDb** e **Letterboxd**, e seu uso deve respeitar os respectivos termos e condições de cada fonte. O repositório não tem como objetivo a redistribuição ou comercialização dos dados coletados.
+
+As chaves de API utilizadas no projeto são armazenadas no arquivo `.env`, que **não deve ser versionado ou disponibilizado publicamente**.
+
+*This product uses the TMDB API but is not endorsed or certified by TMDB.*

@@ -2,7 +2,7 @@
 
 Trabalho 1 da disciplina de **Ciência de Dados**, que consiste na construção de uma base com **1.000 filmes**, integrando informações de orçamento, bilheteria e recepção do público e da crítica a partir do **TMDB**, **OMDb** e **Letterboxd**.
 
-**Slides da apresentação:** [link do Canva](COLE-O-LINK-AQUI)
+**Slides da apresentação:** [link do Canva](https://www.canva.com/design/DAHVGqCfhI0/FZPV4twqX9o79GRrggAOWg/edit?utm_content=DAHVGqCfhI0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 **Pergunta motivadora:** Existe correlação positiva entre orçamento alto e aclamação (público/crítica), ou o investimento impacta sobretudo a bilheteria?
 
@@ -33,16 +33,19 @@ Letterboxd ──► letterboxd_raw.csv ─┘
 
 ```text
 trabalho01/
-├── coleta_cinema.ipynb          # coleta + join + limpeza
-├── scripts_coleta_letterboxd.py # helper opcional do scrape
-├── requirements.txt
-├── .env.example                 # chaves (nunca commitar .env)
-├── dados_brutos/                # CSVs crus, inalterados
-├── dados_tratados/              # base integrada (Parquet + CSV)
-└── docs/
-    ├── dataset_card.md          # Apêndice A
-    ├── proveniencia.jsonl       # log URL / timestamp / status
-    └── robots_verificacao.md
+├── dados_brutos/                    # Dados coletados, sem alterações
+├── dados_tratados/                  # Base integrada e tratada
+├── docs/                            # Documentação complementar
+│   ├── dataset_card.md              # Documentação da base de dados
+│   ├── proveniencia.jsonl           # Registro de proveniência dos dados
+│   └── robots_verificacao.md        # Verificação das políticas de acesso
+├── .env.example                     # Modelo para as chaves de API
+├── .gitignore                       # Arquivos ignorados pelo Git
+├── Dataset_Card.pdf                 # Dataset Card em PDF
+├── README.md                        # Documentação principal
+├── coleta_cinema.ipynb              # Coleta, integração e tratamento dos dados
+├── requirements.txt                 # Dependências do projeto
+└── scripts_coleta_letterboxd.py     # Script auxiliar para coleta do Letterboxd
 ```
 
 ## Setup Rápido
